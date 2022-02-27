@@ -1,0 +1,2222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A black-smith and no Jesuite or, a true relation how I VVilliam Houlbrook black-smith of Marleborough was betray'd by Cornet George Joyce, who carried the King prisoner from Holmby; and of the unjust imprisoning of me: and my several examination: before Bradshaw, and his bloody crew: with my answers unto all of them, as you may read in the following discourse. Written in the time of my imprisonment, and now put to publick view.</title>
+            <author>Houlbrook, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86602</idno>
+            <idno type="STC">Wing H2939</idno>
+            <idno type="STC">Thomason E2138_2</idno>
+            <idno type="STC">ESTC R208362</idno>
+            <idno type="EEBO-CITATION">99867319</idno>
+            <idno type="PROQUEST">99867319</idno>
+            <idno type="VID">119626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119626)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2138[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A black-smith and no Jesuite or, a true relation how I VVilliam Houlbrook black-smith of Marleborough was betray'd by Cornet George Joyce, who carried the King prisoner from Holmby; and of the unjust imprisoning of me: and my several examination: before Bradshaw, and his bloody crew: with my answers unto all of them, as you may read in the following discourse. Written in the time of my imprisonment, and now put to publick view.</title>
+                  <author>Houlbrook, William.</author>
+               </titleStmt>
+               <extent>[8], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sould by Francis Lash, next door to the Pauls-head Tavern at Pauls-Chain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July July 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Houlbrook, William --  Early works to 1800.</term>
+               <term>Joyce, George, fl. 1647 --  Early works to 1800.</term>
+               <term>Imprisonment --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119626:1" rendition="simple:additions"/>
+            <p>A BLACK-SMITH AND NO <hi>JES<g ref="char:V">Ʋ</g>ITE:</hi> OR, A True relation how I <hi>VVilliam Houlbrook</hi> Black-ſmith of <hi>Marlebo<g ref="char:EOLhyphen"/>rough</hi> was betray'd by Cornet <hi>George Joyce,</hi> who carried the King priſoner from <hi>Holmby;</hi> and of the unjuſt impri<g ref="char:EOLhyphen"/>ſoning of me: And my ſeveral examina<g ref="char:EOLhyphen"/>tion: before <hi>Bradſhaw,</hi> and his bloody Crew: With my Anſwers unto all of them, as you may read in the following Diſcourſe.</p>
+            <p>Written in the time of my impriſonment, and now put to publick view.</p>
+            <q>
+               <bibl>
+                  <hi>Luke 21.14, 15.</hi>
+               </bibl>
+               <p>Settle it therefore in your hearts, not what ye ſhall anſwer; for I will give you wiſdom which all your adverſaries ſhall not gainſay.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and are to be ſould by <hi>Francis Laſh,</hi> next door to the <hi>Pauls</hi>-head Tavern at <hi>Pauls</hi>-Chain, 1660.</p>
+            <pb facs="tcp:119626:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119626:2"/>
+            <head>To the Right Worſhipful <hi>Henry Hungerford</hi> and <hi>Ief<g ref="char:EOLhyphen"/>fery Daniel,</hi> Eſquires, Burgeſſes for the Town of <hi>Marleborough.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sirs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU have here pre<g ref="char:EOLhyphen"/>ſented the reſult of a few melancholy nights ſpun out in recollecting what the minds Intelli<g ref="char:EOLhyphen"/>gencer had record<g ref="char:EOLhyphen"/>ed from the ſingle eyed <hi>Cyclopean</hi> cru<g ref="char:EOLhyphen"/>elty and unthought of heat in framing Chariots and hammering out thun<g ref="char:EOLhyphen"/>der-bolts and other engines for <hi>Mars.</hi> Verily did not Zeal burn within me, as
+<pb facs="tcp:119626:3"/>impatient of concealing ſuch fire-brands, I ſhould not dare thus boldly to ſcriblle and grate your (now) ſerene, ſedate ſpirits with ſuch an ignoble pe<g ref="char:EOLhyphen"/>dantick ſtory of Royalty raviſhed with the diſguiſed wild-fire of Ariſtocraſie, which heaven only knows how many heads of this Kingdom it might have blown off, had they not (as wanting ſufficiencie of the fool to act the knave artificially) being too confi<g ref="char:EOLhyphen"/>dent of effecting their deſigns, in due time diſcovered their dark Lan<g ref="char:EOLhyphen"/>thorn.</p>
+            <p>Honoured Sirs, The noble reſpect you were wont to manifeſt towards all induſtrious atchievements, as alſo ſome friends did incite me not to to defer the divulging this (though rude, ruſtick, incompoſed) Table-talk; hath imboldned me to crave for it a ſhelter under the ſhadow of your benigne wings from the contagi<g ref="char:EOLhyphen"/>ous breath of heated tongues.</p>
+            <p>I am far from preſuming to deline<g ref="char:EOLhyphen"/>ate
+<pb facs="tcp:119626:3"/>theſe Monſters, ſo as to undertake to derive their Pedegree, to fadom their bottomleſs profundity, or calcu<g ref="char:EOLhyphen"/>late the knaverie, ſimplicitie, inſtabi<g ref="char:EOLhyphen"/>lity or independencie either of their lives or actions: but yet I have adven<g ref="char:EOLhyphen"/>tured in Loyalty to my Soveraign, o<g ref="char:EOLhyphen"/>bedience to your ſelves, reſpect to my friends, and fidelitie unto all, to preſent you a true (though not ſo ar<g ref="char:EOLhyphen"/>tificial) ſurvey of a ſingle plot, which had almoſt been unwittingly purcha<g ref="char:EOLhyphen"/>ſed of the intending uſurping Land<g ref="char:EOLhyphen"/>lords, had not their <hi>Achitophel</hi>-like Counſels been ſoon defeated, and they ſoon after confounded in their own de<g ref="char:EOLhyphen"/>vices, for which Divine Providence, and a continuance thereof, is, and I hope ever ſhall be the daily prayer of him, who devotes himſelf, to fear God, ho<g ref="char:EOLhyphen"/>nour the King, and unfeignedly to ſerve you,</p>
+            <closer>
+               <signed>William Houlbrook.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119626:4"/>
+            <head>THE EPISTLE TO THE Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hriſtian Reader, it was not my thoughts to ever appear in Print, nor do I now in any vain-glory, or to expect any praiſe from men; but being moved by ſome Friends, and having moſt part of it written by me ever ſince I was in <hi>New<g ref="char:EOLhyphen"/>gate,</hi> and having witneſſes in the Coun<g ref="char:EOLhyphen"/>trey
+<pb facs="tcp:119626:4"/>that knew how it was acted: <hi>I</hi> have thought good not to paſs it over with ſi<g ref="char:EOLhyphen"/>lence; for it is not for any private ends that I do it, but that the world may know what bloody men we have had in this Na<g ref="char:EOLhyphen"/>tion that went under the Notion of Reli<g ref="char:EOLhyphen"/>gions men, when indeed they were Devils; as witneſs that blaſphemous Petition of <hi>Praiſe-God Barebones,</hi> for which he had the thanks of the Devils Imps, to have Church and State ruined; but there be many other Preſidents of as great a na<g ref="char:EOLhyphen"/>ture, and therefore <hi>I</hi> ſhall not name them here; but we have had ſuch wicked Go<g ref="char:EOLhyphen"/>vernments that no man did dare to ſpeak his conſcience. Seeing now it is Gods Love and mercy to ſettle us in our anci<g ref="char:EOLhyphen"/>ent form of Government, of King, Lords and Commons, let us ſubmit thereto, ac<g ref="char:EOLhyphen"/>cording to our duty; For we all ſee the danger in rejecting the Lords Anointed, and to what great extremities theſe poor Nations were brought into by endeavour<g ref="char:EOLhyphen"/>ing to ruine one another: &amp; <hi>I</hi> deſire all per<g ref="char:EOLhyphen"/>ſons that ſhall find fault with me, to exa<g ref="char:EOLhyphen"/>mine
+<pb facs="tcp:119626:5"/>their own ſelves, and not to look too much abroad, and all people to obey their King, and all Souldiers to remember our Saviour Chriſts Command; and in their doing ſo, we ſhall live a peaceable and qui<g ref="char:EOLhyphen"/>et life, according to Gods Command, and ſhall never be brought under ſuch bloody men again. So leaving thee to the enſu<g ref="char:EOLhyphen"/>ing Diſcourſe, <hi>I</hi> reſt,</p>
+            <closer>
+               <signed>Thine to ſerve thee, <hi>William Houlbrook.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119626:5"/>
+            <head>
+               <hi>A BLACK-SMITH</hi> And no Jeſuite; <hi>Or, The</hi> Smith <hi>of</hi> MARLEBORO<g ref="char:V">Ʋ</g>GH.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE twenty eight of <hi>Ju<g ref="char:EOLhyphen"/>ly</hi> 1659. Cornet <hi>Joyce,</hi> Cornet <hi>Smale,</hi> Quar<g ref="char:EOLhyphen"/>termaſter <hi>Tynne,</hi> Mr. <hi>Waldron,</hi> and Corporal <hi>Carter,</hi> came to <hi>Marleborough</hi> with a<g ref="char:EOLhyphen"/>bout
+<pb n="2" facs="tcp:119626:6"/>twenty Souldiers, which Soul<g ref="char:EOLhyphen"/>diers quartered at the George at the towns end; but Cornet <hi>Joyce</hi> and the reſt of his Confederates, went into the Town; <hi>Joyce</hi> quartering at the White-hart, and the reſt at the Angel; having thus diſperſed themſelves, I was ſent for to ſhooe Cornet <hi>Smale</hi>'s horſe, which I did; being called into the Chamber to receive my due, I went, not ſuſpecting any deſigne; but after payment, <hi>Tynne, Waldron, Smale,</hi> and <hi>Carter,</hi> were exceeding inquiſitive concerning news; I told them I could not inform them of any, being from home till laſt night at <hi>Sarum</hi> Aſſiſes: What news there? I made anſwer, great complaints of bad trading, and great Taxes, and the poor ready to famiſh.</p>
+            <sp>
+               <speaker>Tynne.</speaker>
+               <p>Is it ſo? ſaid <hi>Tynne;</hi> now thou ſhalt ſee honeſt Smith that in a ſhort time things will alter, for thou ſhalt ſee the <hi>Rump</hi> turned out.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Say you ſo ſir? truly I am
+<pb n="3" facs="tcp:119626:6"/>very glad of that, for then I ſhall have ſome work, and likewiſe all other tradeſmen.</p>
+            </sp>
+            <sp>
+               <speaker>Smale.</speaker>
+               <p>Truly honeſt Smith, I ſee thou art right, for I have loſt all that I had for being for the King.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Sir, be of good comfort, for a good Conſcience goes beyond riches, and no doubt but God will raiſe you up again.</p>
+            </sp>
+            <p>Then they asked me what friends the King had thereabouts; I ſaid there are many that would be glad to ſee better times.</p>
+            <sp>
+               <speaker>Tynne.</speaker>
+               <p>But honeſt Smith, doſt thou know of any who have ſent any thing to carry on our Kings Intereſt? thou needs not be a fraid, (ſaid he) for we are as faithfull true ſubjects to the King as any perſons can be: then they all ſaid, we have loſt our eſtates, we have ventured our lives, and there<g ref="char:EOLhyphen"/>fore thou needeſt not doubt or fear us.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No, for my part I have no cauſe: then they call'd for Beer,
+<pb n="4" facs="tcp:119626:7"/>and did drink the Kings health, and I pledged them: then they ſaid the <hi>Rump</hi> was Cheaters; and my anſwer was, they ſaid true enough, for they had not only cheated the King of his right, but many thouſands more.</p>
+            </sp>
+            <sp>
+               <speaker>Tynne.</speaker>
+               <p>It is very true indeed, for theſe Members which ſit now at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> have Cheated me of a brave eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Waldron.</speaker>
+               <p>And ſo alſo have they of mine, and I would not for fourty pounds but that I had known thee, for thou mayeſt do us a great deal of good, to help on our Intereſt.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My anſwer was, that any good which I could do, I would do with all my heart.</p>
+            </sp>
+            <sp>
+               <speaker>Smale.</speaker>
+               <p>Well honeſt Smith, tell what perſons be here abouts as will do us any good, for our deſire is not to be Governed by this <hi>Rump</hi> all the daies of our lives.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You ſpeak well ſir, for they did pretend the Biſhops was la<g ref="char:EOLhyphen"/>zey,
+<pb n="5" facs="tcp:119626:7"/>and would preach but once a year, and <hi>Hazelrig</hi> and the reſt have gained their eſtates, and they will not preach at all; and added alſo, that ſelf-inte<g ref="char:EOLhyphen"/>reſt had been the cauſe of all diviſions, for there is no more Religion: then one of them went our of the room, and called <hi>Tynne</hi> out after him, and left only Cornet <hi>Smale</hi> with me.</p>
+            </sp>
+            <sp>
+               <speaker>Smale.</speaker>
+               <p>Honeſt Smith, what do you think of Captain <hi>Burges,</hi> and Mr. <hi>Thomas Baly?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>They are very honeſt Gen<g ref="char:EOLhyphen"/>tlemen, and would be glad to ſee bet<g ref="char:EOLhyphen"/>ter times: But ſir, did you never hear the Letter as came from Hell to this Parliament, otherwiſe called the <hi>Rump?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smale.</speaker>
+               <p>No, pray tell us what it was; ſo I did.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>It was directed, To our Right and Truſty, Welbeloved Mem<g ref="char:EOLhyphen"/>bers now ſitting at our Houſe at <hi>Weſt<g ref="char:EOLhyphen"/>minſter;</hi> or in their abſence, To our
+<pb n="6" facs="tcp:119626:8"/>good promoters of our <hi>Good Old Cauſe.</hi>
+               </p>
+               <p>The Contents followeth.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Right dear and Welbeloved,</salute>
+                     </opener>
+                     <p>
+                        <hi>Whereas you according to the Truſt that we have repoſed in you, have gone on with the work of Reformation, and deſolation of all our good people of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>we returne you thanks; hoping you will perſevere ſo to the end; And our deſire is, that you wll ſend as few to Hea<g ref="char:EOLhyphen"/>ven of thoſe you Murther as you can; for we muſt give you a hint of your former miſtakes in</hi> Charles, Love, <hi>and</hi> Hewit, cum multis aliis, (<hi>here you muſt under<g ref="char:EOLhyphen"/>ſtand the Divel miſtakes, in ſpeaking Latin to thoſe as cannot understand Eng<g ref="char:EOLhyphen"/>liſh) And we would not have you cloy us with ſo many ſtinking</hi> Lobſters, <hi>I mean your Red-Coates; for if we ſhall think it convenient to continue you any longer on Earth, we ſhall come and keep our Court amongſt you at</hi> White-Hall; <hi>therefore we would not have you ſell it, nor yet</hi> So<g ref="char:EOLhyphen"/>merſet-Houſe; <hi>it may be thought meet
+<pb n="7" facs="tcp:119626:8"/>if you ſit long, to make it one of our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eens Palaces.</hi>
+                     </p>
+                     <closer>
+                        <dateline>Dated at the <hi>Stygian Lakes,</hi> in the Infernal ſhades.</dateline>
+                        <signed>Pluto.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This I told them, and many other things which made them very merry; and all this time they called for Beer; and when one had drunk unto me, then another did begin; ſo they kept me drinking til Ten a clock that night, and they did endeavour to keep all out of the Room, Tapſter and Chamber<g ref="char:EOLhyphen"/>lain, becauſe they ſhould not hear what they did ſay unto me. Then one of them went to Cornet <hi>Joyce</hi> at the White-Hart, and told him that they had got a Black-Smith at their Inne, who would do them a great deal of good, and wiſhed him to deal warily with me; for they could do no good upon me, if he would but trie me they knew it would be worth their labour in coming; ſo he promiſed them in
+<pb n="8" facs="tcp:119626:9"/>the morning he would attempt what they deſired: All this was done un<g ref="char:EOLhyphen"/>known to me, (and all this I was told by the Chamberlain afterwards.) Ha<g ref="char:EOLhyphen"/>ving proceeded thus far, &amp; it being late, they began to prepare for bed, ſo away came I home, and told my Mother and a neighbour what had paſſed. The next morning Cornet <hi>Joyce</hi> did ſend for me, to come and ſhooe his Horſe, and I went; but it was as a Bird to the ſnare, by the cunning of the Fowler. As ſoon as I came to the Hart, he was ſtanding at the ſtable doore, and was clothed like a Farmer, and ſo I thought him to be; and he deſired me to naile his Horſe, which I did, and he gave me ſix pence for my labour: ſir, this is too much, no, it is not ſaid he, for thou doſt deſerve it, for I perceive that thou art a good workman.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Welcome honeſt Smith, go up into my Chamber, and I will make thee drink into the bargain.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I being come into the
+<pb n="9" facs="tcp:119626:9"/>Chamber, <hi>Joyce</hi> called for a pint of White-wine and ſugar, and ſome To<g ref="char:EOLhyphen"/>bacco and Pipes, and cauſed me to ſit down with him, and drank unto me.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>Come honeſt Smith, here's a health unto the King; and threw his Hat under the board.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Seeing that, I plucked off my hat alſo, and ſaid, with all my heart; and pledged him.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Come honeſt heart? as a comfort unto thee, Ile tell thee news, if thou doſt not know of it already.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What is that ſir, I pray?</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>I will tell thee, there is to be this day ſeventhnight a Rendez<g ref="char:EOLhyphen"/>vouze of about ten thouſand men at the Forreſt of <hi>Dean</hi> for the King, did'ſt not hear of it?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed Sir, not I; I never heard of any ſuch thing.</p>
+            </sp>
+            <sp>
+               <speaker>Joy.</speaker>
+               <p>It is very true; for a friend of mine at <hi>London</hi> hath ſent down 50000. <abbr>
+                     <hi>l.</hi>
+                  </abbr> into the <hi>Weſt,</hi> and ten thouſand Caſe
+<pb n="10" facs="tcp:119626:10"/>of Piſtols to carry on my Maſters in<g ref="char:EOLhyphen"/>tereſt; how thinkſt thou of that, ho<g ref="char:EOLhyphen"/>neſt Smith?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Very well; God proſper you. I am glad to hear ſuch news; for God knows, Sir, I ſhould be wil<g ref="char:EOLhyphen"/>ling to venture my life for the King, ſo I might do him any ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>It is a ſad thing for a man to be baniſhed from his right, and for ſeeking after it to be proclaim'd a tray<g ref="char:EOLhyphen"/>tor by thoſe that are Traitors them<g ref="char:EOLhyphen"/>ſelves, and murderers too.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then he ſhewed me the Kings Commiſſion, telling me that the King had given him power to raiſe Forces for him, and I did read his Commiſſion, and there was the Broad Seal on it, ſigned <hi>Charles Rex.</hi> Having laid this as a foundation to the miſchief intended, he proceeds to ask of me many queſtions; firſt about Captain <hi>Burges.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Doſt thou think that Cap<g ref="char:EOLhyphen"/>tain <hi>Burges</hi> is right for us?</p>
+            </sp>
+            <pb n="11" facs="tcp:119626:10"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray Sir do not queſtion that, for he is a very honeſt godly man; and I am ſure he is willing to have a Government ſetled, and not be governed by the Fagg-end of the Nation, as we are now (the more is the pity.)</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>I believe he is honeſt, be<g ref="char:EOLhyphen"/>cauſe he hath not raiſed his Troop all this while; but doſt hear honeſt heart? doſt know of any that hath given any money or Horſes to carry on our Ma<g ref="char:EOLhyphen"/>ſters intereſt?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed ſir? I do not know of any that have.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>But doſt know of any that will?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes, there are as honeſt men hereabouts as any in the Land.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>What doſt think of the Lord <hi>Seamour?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>He is a gallant, noble, and worthy perſon.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>But doſt hear honeſt heart? doſt know of any intereſt which he
+<pb n="12" facs="tcp:119626:11"/>hath carried on for my Maſter?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed ſir; I do not know of any intereſt wherein he hath engaged himſelf in reference to the King.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>But doſt think if we ſhould make trial of him to aid and aſſiſt my Maſter, that he would be willing? for, if we ſhould take away horſes by force, we ſhall loſe the good will of the Countrey; therefore if we can gain ſuch men as he whereby to carry on our deſign without oppreſſion, we ſhall be in a more likely way to proſper.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truly ſir, you may make trial and ſee, but he lives very pri<g ref="char:EOLhyphen"/>vately, for they have been pulled and baited up and down, ſo that I think they will have but ſmall ſtomack to meddle any more, unleſs they ſee an opportunity.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Well Smith, what, doſt thou know my Lord <hi>Marqueſſe?</hi> what doſt thou conceive of him?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truly, a noble Lord.</p>
+            </sp>
+            <pb n="13" facs="tcp:119626:11"/>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Doſt thou know of any in<g ref="char:EOLhyphen"/>tereſt he hath carried on for my Ma<g ref="char:EOLhyphen"/>ſter?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed ſir, I do not know of any.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Doſt think that Captain <hi>Burges</hi> doth carry on any deſign for him?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed ſir, I do not know any of them that carry on any deſign for him; but I conceive they are all his good friends.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Doſt think that the Lord <hi>Marqueſs</hi> will do my Maſter any good, to let me have any money, or horſes; for that as we do, it muſt be done before the <hi>Militia</hi> be raiſed, or elſe we ſhall be diſappointed.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You may go and try ſir; for if you go to him, I believe he will do what may be done with the ſafety of his life and Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>But honeſt Smith, if thou wilt go and carry theſe Letters to theſe men, thou ſhalt be well paid; which
+<pb n="14" facs="tcp:119626:12"/>Letters are in number four; one for the Lord <hi>Marqueſſe,</hi> another for the Lord <hi>Seamour,</hi> one to the High She<g ref="char:EOLhyphen"/>riff, and the other to Mr. <hi>Webb</hi> of <hi>Og<g ref="char:EOLhyphen"/>bourn</hi> a Miniſter.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I cannot go, to morrow be<g ref="char:EOLhyphen"/>ing Saturday, and our Market day, which requires my being at home; therefore I pray go your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Honeſt Smith, what thinkſt thou of Mr. <hi>Byfield,</hi> Mr. <hi>Proffit,</hi> Dr. <hi>Chambers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truly they are honeſt true hearts, and would be glad to ſee better times.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Doſt think we may truſt theſe <hi>Presbyterians?</hi> for thou know'ſt they have been falſe to my Maſters Father.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray ſir, do not queſtion them; there were ſome indeed who were not right; but they that were ſo, have ſuffered deeply for it: For <hi>Quakers,</hi> and <hi>Anabaptiſts,</hi> and others of the <hi>Phanatick</hi> ſort have been ſo vio<g ref="char:EOLhyphen"/>lent
+<pb n="15" facs="tcp:119626:12"/>againſt them, as to pull them out of the Pulpits, and caſt dirt in their fa<g ref="char:EOLhyphen"/>ces; as that now they will prize a good King when it is Gods will to ſend him.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>But doſt hear Smith? where is your meeting place?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>At Mr. <hi>Thomas Baylies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>What is Mr. <hi>Baylie?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>An honeſt Royal heart.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>But if we ſhould ſpeak with him, he having no horſes, will be uſe<g ref="char:EOLhyphen"/>leſs in this matter.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>But ſir, Mr. <hi>Byfield</hi> of <hi>Col<g ref="char:EOLhyphen"/>lingbourn</hi> hath two, he may have one of them.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Well honeſt Smith, what horſe was that which the Duke of <hi>Buckingham</hi> bought here?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>A very good horſe indeed ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Doſt hear he is going to carry on my Maſters Deſign?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed ſir, I do not hear ſo; but he bought one or two horſes
+<pb n="16" facs="tcp:119626:13"/>by the way, and one there; and ſaid be would buy ſome more if he could light upon them worth money, and therefore it may be like enough.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Well honeſt Smith, the Lord <hi>Fairfax</hi> is to be General of all theſe Forces as are raiſing now.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I am very glad of that in<g ref="char:EOLhyphen"/>deed ſir, for he is very well beloved in the Army; if he could have had his will, our King had never been beheaded.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Thou ſayeſt right honeſt Smith; but doſt hear no reports of it whether it is ſo or no?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No verilie ſir; I did never hear of it untill now.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>But doſt hear Smith; doſt know of any who are to carry on my Maſters deſign? if thou doſt know; do ſo much as tell me, for I ſhall be as true as thine own heart.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>There are many true Royal hearts that are gone down towards <hi>Bathe.</hi>
+               </p>
+            </sp>
+            <pb n="17" facs="tcp:119626:13"/>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Who in particular, honeſt Smith?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>One of them is one of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> one Mr. <hi>Maskell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>And how can'ſt tell honeſt Smith?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why, he had ſome di<g ref="char:EOLhyphen"/>ſcourſe with me?</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>What diſcourſe was it you had?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>He ſaid ſir, that there was an intereſt carrying on, and he did hope I would fight for my Countrey as well as the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>O! I do know him, for he is an honeſt blade! a good number of ſuch men would do well, do'ſt know of any more?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>What company had he with him here?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why ſir? he had two or three with him.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>What were they?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>One of them was one that
+<pb n="18" facs="tcp:119626:14"/>was a priſoner; and <hi>Thurlo</hi> that wicked fellow would not ſuffer him to have the uſe of Pen, Ink, or Paper; but he ſaid he ſhould be even with him: he is as honeſt a Gentleman as you ever came near ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>There is no doubt of that; for there is none but honeſt men do carry on my Maſters intereſt; and there is no doubt, that if ever my Maſter <hi>King Charles</hi> ſhall come, he is ſo Roy<g ref="char:EOLhyphen"/>al a Maſter, that he will reward all thoſe that are true and faithful unto him: For my part honeſt Smith I have loſt all for being faithful for my Ma<g ref="char:EOLhyphen"/>ſter; for truly, if I had known of any intereſt carried on, I ſhould have told them of it: But do'ſt know Mr. <hi>Bond</hi> of <hi>Ogbourn?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes very well ſir?</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>When did he come out of <hi>France</hi> from my Maſter?</p>
+            </sp>
+            <pb n="19" facs="tcp:119626:14"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I cannot tell ſir, whether he was ever with the King or no; or whether he be at home; but I am cer<g ref="char:EOLhyphen"/>tain he is as honeſt a true heart for the King, as any in theſe parts.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Do you know Maſter <hi>Par<g ref="char:EOLhyphen"/>rom?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Sir, I know him very well, for he hath ſuffered very much for the King, poor Gentleman!</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Thou ſayeſt verie right honeſt Smith; but when did'ſt ſee him?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Indeed ſir I have not ſeen him a great while.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>If I could but ſee him, I ſhould make known our Deſigne unto him, for he would be very joy<g ref="char:EOLhyphen"/>full to hear of it.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You ſay right ſir; I, for you need not doubt but that he would be glad to hear (as well as ma<g ref="char:EOLhyphen"/>ny others) of the bringing the right Heir to his Eſtate again, from which
+<pb n="20" facs="tcp:119626:15"/>
+                  <hi>Oliver Cromwel</hi> that Grand Traitor, and the reſt of his bloody Crew hath baniſhed him, murdering his Father before his own Palace Gate, the like whereof hath not been known in former Ages; for I have read of all the Reigns of the Kings and Em<g ref="char:EOLhyphen"/>perours, and cannot find the like caſe.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Thou ſai'ſt right honeſt Smith; for it was the Horridſt thing that ever was committed; but God will find them out, I will war<g ref="char:EOLhyphen"/>rant thee, for God will not let in<g ref="char:EOLhyphen"/>nocent blood go unrevenged.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Upon theſe ſpeeches the tears did ſtand in mine eyes, which he perceiving, did take notice of it; and told <hi>Bradſhaw</hi> of it when I was brought to <hi>London,</hi> as you ſhall hear in the following di<g ref="char:EOLhyphen"/>ſcourſe: ſir ſaid I, <hi>Oliver Cromwell</hi> did pretend that the King was a Traitor,
+<pb n="21" facs="tcp:119626:15"/>and that he did violate the Laws of the Nations; but pray ſir conſider what he hath done; for he was the greateſt Traitor that ever Hell hatcht, for firſt he puts his Sovereigne Lord King <hi>Charles</hi> to death: and when that was counted a High Breach in the King to demand Five Members, he moſt Trai<g ref="char:EOLhyphen"/>terouſly turned them All out; for juſt as <hi>Richard</hi> the Third did, ſo did he; and likewiſe he brought, like the Di<g ref="char:EOLhyphen"/>vil, as he can, Religion for all his bloo<g ref="char:EOLhyphen"/>dy Actions; as if God had ordered him to Murther his King, which God and man knew was innocent, and whom he ought to have obeyed, and not to have ſlaine: But what is't that a Tyrant will not do?</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>Thou ſayeſt right honeſt Smith, for he was the greareſt Tyrant as ever was read of, which I did finde unto my ſorrow; and theſe his Imps which now ſit be as bad as he, for they
+<pb n="22" facs="tcp:119626:16"/>ſeek after other mens revenues as he did, for they are bloody-minded men all of them.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You ſay right ſir, for if Hell had been picked there could not a more wickeder pack been found out, for they all ſeek after blood, and other mens eſtates; and there they ſit and Vote eſtates one for another, and lay great Taxes upon the Nations, but ne<g ref="char:EOLhyphen"/>ver looketh after a Trade for the Na<g ref="char:EOLhyphen"/>tion whereby they might be able to pay them; and fetcheth <hi>Martin</hi> and others out of Goal as are in for debt to ſit in the Houſe, becauſe they lack Mem<g ref="char:EOLhyphen"/>bers to ſtand for the <hi>Good Old Cauſe;</hi> as if there were not men enough in the Nation, as will ſtand for the <hi>Good Old Cauſe</hi> as well as they; but this cauſe as they name, is not the Cauſe as ten<g ref="char:EOLhyphen"/>der-hearted Chriſtians would have; for theſe ſeek after other mens eſtates, for <hi>Martin</hi> to make him rich; and the
+<pb n="23" facs="tcp:119626:16"/>reſt will not be in debt as long as there is money in the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Thou ſayeſt right honeſt Smith, for my eſtate and other mens muſt pay their debts.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>But ſir, did you never read Mr. <hi>Prin's</hi> Books? he diſcovereth what their <hi>Good Old Cauſe</hi> is: That man hath done as much good as any one man in the Nation; and there is no doubt but the King will reward him for it.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Indeed honeſt Smith I have ſeen many of his Books, and have read many of his paſſages, but cannot hear of any thing as he doth Act, and thou knoweſt that my Muſter cannot be brought in with Books, but with Armes.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You are right ſir for that, but there is a time for all things, and I believe when he can ſee an opportuni<g ref="char:EOLhyphen"/>ty, he will not be wanting.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>But when didſt ſee him.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I ſaw him about a week a
+<pb n="24" facs="tcp:119626:17"/>go at the ſigne of the Bear in <hi>Marle-borough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>And whither was he go<g ref="char:EOLhyphen"/>ing?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Down towards the <hi>Bath,</hi> I think.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>And hadſt thou any diſcourſe with him?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I was with him there, and did ſpeak with him by the means of a <hi>Londoner</hi> that was there.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>But what diſcourſe had you with him?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truly very little, for I went in only to ſee him, and I only ſaid I was glad to ſee him, for I had heard good report of him, for I had read many of his Books; and he re<g ref="char:EOLhyphen"/>turned me thanks, and made me drink; ſo I went from him, and did never before nor ſince ſee him.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>But did he not ſpeak about a riſing there?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>That is a wonder they do
+<pb n="25" facs="tcp:119626:17"/>not tell him of it, for he would be a good friend to my Maſter; had I but ſpoken with him, I would have given twenty pounds if I had been there.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You might have been there for half the money ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>But do'ſt hear honeſt Smith, Doſt know the Lord <hi>Herbert?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes ſir, very well.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>Do'ſt think he will do us a<g ref="char:EOLhyphen"/>ny good, for he hath been right for my Maſter formerly?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You need not queſtion that ſir, he is ſo ſtill; for I aſſure you that he is as honeſt a Noble Lord, as any is in the Weſtern parts.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>Do'ſt know of any Intereſt he hath carried?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No ſir, there is none that I know of, but he will not be back<g ref="char:EOLhyphen"/>ward when opportunity may ſerve.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>Thou do'ſt know a great ma<g ref="char:EOLhyphen"/>ny Travailers as come up and down, doſt not?</p>
+            </sp>
+            <pb n="26" facs="tcp:119626:18"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes ſir, I know a great many.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>I wonder thou waſt not Trappan'd amongſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No, thanks be to God he hath preſerved me hitherto; but in <hi>Old Nolls</hi> time I was very fearfull, becauſe he ſet many ſuch perſons a<g ref="char:EOLhyphen"/>work.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>How didſt carry thy ſelf be<g ref="char:EOLhyphen"/>ing alwayes amongſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I have read the 13. of the <hi>Romans,</hi> and there I finde that we muſt be ſubject to the higher Powers, for there is no Power but is of God; and except that power do command any one to do that which is not accor<g ref="char:EOLhyphen"/>ding to his Word, then we muſt ſuffer and not reſiſt; for there is Scripture for it: Whether it is lawful to obey God or man judge you?</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>So honeſt Smith, thou art in the right; for we all ought to do ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I muſt now take my leave,
+<pb n="27" facs="tcp:119626:18"/>for I am in much haſte, for all my work lieth to be done, and to Morrow is our Market-day; and ſo I give you many thanks for all your loving kind<g ref="char:EOLhyphen"/>neſs and favours you have ſhewed me.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>Nay, pray honeſt Smith ſtay a little longer.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I cannot indeed ſir; and ſo I departed from him, and when I came down the ſtairs, I went for my ſhoo<g ref="char:EOLhyphen"/>ing basket into the ſtable, and as I came back again, I ſaw Cornet <hi>Ioyce</hi> go forth towards the Angel unto the reſt of his Crew; but God knows I could not believe any otherwiſe, but that they had been as honeſt as any men in <hi>England,</hi> for their pretences made me believe no otherwiſe of them: I ſeeing him going forth to the Angel, I went to the Chamberlaines who heard moſt part of this diſcourſe, and deſired them to ſay nothing of what diſcourſe had paſſed between <hi>Joyce</hi> and me, and them; becauſe if they did, we ſhould be called to queſtion about it,
+<pb n="28" facs="tcp:119626:19"/>and theſe honeſt Gentlemen might be ruined.</p>
+            </sp>
+            <sp>
+               <speaker>Chamberlains.</speaker>
+               <p>We will not ſpeak a word to any Chriſtian.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray do not; for God proſper him and all others that be in Arms, to get him to have his own, whoſe right it is.</p>
+            </sp>
+            <sp>
+               <speaker>Chamberlains.</speaker>
+               <p>We will all keep ſecret.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So I went home to my ſhop, but all this time I did not know what their names were, nor what they were, but when I came to my ſhop, I was ſent for to ſhooing unto the Kings Arms, and being there, after I had ſhooed the Gentlemans Horſe, he made me drink: and then I deſired Mr. <hi>Sadler</hi> the Inne-keeper to go into the Court, for I had ſome news to tell him: ſo I told him what <hi>Ioyce</hi> had told me.</p>
+            </sp>
+            <sp>
+               <speaker>Sadler.</speaker>
+               <p>I am very Joyful of it, but is it true?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>It's very true, for I have ſeen the Kings Commiſſion Signed
+<pb n="29" facs="tcp:119626:19"/>
+                  <hi>Charles Rex.</hi> Then my Brother came for me, and told me there was a Gen<g ref="char:EOLhyphen"/>tleman ſtayed at the ſhop to ſpeak with me: ſo I went to my ſhop, and when I came, it was one of them that was at the Angel the night before, as I have related already, whoſe name was Cor<g ref="char:EOLhyphen"/>poral <hi>Carter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Carter.</speaker>
+               <p>Smith, prethee go along with me to ſhooe a Horſe.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Where is your Horſe ſir?</p>
+            </sp>
+            <sp>
+               <speaker>Carter.</speaker>
+               <p>At the ſigne of the <hi>George</hi> at the Towns end.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I cannot go ſir, for I ſhall loſe more the while, than I ſhall take of you.</p>
+            </sp>
+            <sp>
+               <speaker>Carter.</speaker>
+               <p>Pray go, you ſhall be pay'd over and above for your going down; for you ſhooed the Gentlemans Horſe ſo well at the Hart, that I would deſire you to ſhooe mine too.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Well Sir, any good as I can do you, Il'e do with all my heart: ſo I went along with him, and as I was going along with him, my Mother called me.</p>
+            </sp>
+            <pb n="30" facs="tcp:119626:20"/>
+            <sp>
+               <speaker>Mother.</speaker>
+               <p>
+                  <hi>William,</hi> whither are you going?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>To the <hi>George</hi> to ſhooing: <hi>Mother.</hi> To the <hi>George</hi> to ſhooing; to the <hi>George</hi> to undoing, I am afraid.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why Mother; what need I be afraid to go? for I know of no hurt I have done to any one; ſo along I went with him, and as I looked be<g ref="char:EOLhyphen"/>hind me, I ſee <hi>Ioyce,</hi> and <hi>Tynne,</hi> and <hi>Smale</hi> and <hi>VValdron</hi> coming after whiſpering, and ſtill I did think they were friends to the King; ſo when I came to the <hi>George,</hi> the horſe did not want a ſhooe, but I was to take one off, and ſet a better on; and as I was a ſhoo<g ref="char:EOLhyphen"/>ing of him, theſe four blood-ſuckers as I have named, came by me, but ſaid ne<g ref="char:EOLhyphen"/>ver a word, but went up into the Chamber; and when I had ſhooed the horſe, the Souldiers called me in to take my money; ſo I went in and received ſix pence, and they made me drink ſo long, as it coſt me the ſix pence as I received for my work; then
+<pb n="31" facs="tcp:119626:20"/>the Corporal as had me down, ſaid he would give me a Flagon of Beer; which had, and there was one <hi>Ia. Brown</hi> with them, who was for the King for<g ref="char:EOLhyphen"/>merly, and ſeeing him, I took them to be very honeſt men: and told them their horſes were very poor and unable to do them any ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>We have better horſes when occaſion ſerves.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So you had need Sirs, for the <hi>Rump</hi>'s ſouldiers have very good horſes, if they ſhould take you, you will be utterly ruined; God preſerve you; if I could gain a good horſe, I would not be long behind you to Act for ſuch a Cauſe, as God owns, as he doth this.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>Time may come, you may have a horſe honeſt Smith, to your hearts deſire.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then <hi>Joyce</hi> and the reſt ſent down an Order to the ſouldiers, to provide for a March, and it was then time for me to march too; ſo I took
+<pb n="32" facs="tcp:119626:21"/>my ſhooing basket, and as was go<g ref="char:EOLhyphen"/>ing, <hi>Iames Brown</hi> called me back.</p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>Honeſt <hi>VVilliam,</hi> do me a Courteſie:</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What is it honeſt <hi>Iames?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>It is but to go to the end of the Village along with me, to be a Witneſs to the receiving of ſome Money.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Any good as I can do you, Il'e do it with all my heart; ſo I went along with him, and being about the middle of the Village, I looked back, and ſaw a led horſe coming after with five or ſix a horſe-back, and four or five a foot, which made me wonder what it meant; But I thought the led horſe had been for <hi>Iames Brown;</hi> ſo I went a little further, and being near the houſe, which I was to go unto, they ſaid,</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Ioyce</hi>'s Crew.</speaker>
+               <p>Come Smith, get up and ride.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why ſo, we are hard by the houſe.</p>
+            </sp>
+            <pb n="33" facs="tcp:119626:21"/>
+            <sp>
+               <speaker>
+                  <hi>Ioyce</hi>'s Crew.</speaker>
+               <p>You muſt get up, and ride.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>How Gentlemen, is it ſo? is this the money, the receiving of which I was to be a witneſs to<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>; Gentlemen, pray tell me what you a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and whither you will carry me, and Il'e go with you with all my heart, but before Il'e go with you, know<g ref="char:EOLhyphen"/>ing not whom you are, nor whi<g ref="char:EOLhyphen"/>ther you will carry me; upon which I took a caſe of knifes out of my pock<g ref="char:EOLhyphen"/>et and drew one, they being afraid, leſt I would do them ſome hurt or my ſelf, fell all upon me and took away my knives; <hi>Iames Brown</hi> broke one of them on his knee, carried the other to <hi>Ioyce:</hi> ſo they ſearched my pockets, took from me one ſhilling, the Picture of <hi>Oliver Cromwell</hi> with an Owl on his head, and the Letter as the Devil ſent to the <hi>Rump</hi> (as it was ſaid) ha<g ref="char:EOLhyphen"/>ving ſo done, they ſet me on horſe<g ref="char:EOLhyphen"/>back with main ſtrength, and tied my legs under the Horſes belly with
+<pb n="34" facs="tcp:119626:22"/>a great cord, <hi>Iohn. Forty</hi> of <hi>Hun<g ref="char:EOLhyphen"/>ger ford,</hi> was ambitious of that im<g ref="char:EOLhyphen"/>ployment: then they had me away to a place called <hi>Shabourn</hi> out of the rode by Woods and Lanes for fear I ſhould be taken away from them. (Chriſtian Reader) little doſt thou think what a Condition I was in, not knowing that they were, nor whi<g ref="char:EOLhyphen"/>ther they would carry me! fearing al<g ref="char:EOLhyphen"/>ſo leſt they would they have mur<g ref="char:EOLhyphen"/>dered me in the Woods; from <hi>Shabourn,</hi> their Order was to carry me out of <hi>VVilt-ſhire</hi> into <hi>Berk-ſhire,</hi> and ſo they did: there I ſtayed at an old mans houſe with a cord about me, till nine a Clock at night, at which time there was an Order brought from <hi>Ioyce,</hi> to carry me away to <hi>Reading,</hi> but they would not tell me ſo, until I came to <hi>Newbury,</hi> ſo they ſet me a horſe-back again, and the ſame man tied me as before: the horſe as I rid on, was a pitiful ſtumbling creature, he fell with me twice upon his knees, if
+<pb n="35" facs="tcp:119626:22"/>he had fain on his ſide, it had broken my legs ſhort of; at break off day, we came to <hi>Newbury,</hi> where they with much intreaty untied my legs.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>We have a very ſtrict charge given us, our lives are at ſtake, if you ſhould get away; you are not to be loſt for twenty thouſand pounds.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>If I did offer to run, then you might do what you would with me.</p>
+               <p>At nine a Clock in the morning, we came to <hi>Reading,</hi> where I was con<g ref="char:EOLhyphen"/>veyed down to Major <hi>Evelling,</hi> to whom they delivered a Letter they had from <hi>Joyce,</hi> when he had read the Letter, he called me up ſtairs to him.</p>
+            </sp>
+            <sp>
+               <speaker>Evelling.</speaker>
+               <p>How now honeſt friend, this will be a brave voyage for you; if I could ſpeak ſo much for the good of the Nation as you can, I would give twenty thouſand pounds; come honeſt friend, you muſt go to <hi>London</hi>
+                  <pb n="36" facs="tcp:119626:23"/>pre<g ref="char:EOLhyphen"/>ſenrly for the Council of State, do ex<g ref="char:EOLhyphen"/>pect your deing there this night; there is a Packet gone up to them about you already.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Sir, is this your Love to me to be brought all night with my legs tied, and have me now to <hi>London?</hi> no Sir, you ſhall draw me at the horſes tail, be<g ref="char:EOLhyphen"/>fore I will, until Munday; for if I am worth twenty thouſand pounds to you, you may well keep me till Munday: then it was ordered, I ſhould ſtay till Munday the firſt day of <hi>Auguſt,</hi> then I was to go towards <hi>London:</hi> I asked Major <hi>Evelling</hi> what I ſhould do for meat while I was there, for I had no money.</p>
+            </sp>
+            <sp>
+               <speaker>Evelling.</speaker>
+               <p>You ſhall have ſome meat.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then I was had to the <hi>Red Lion,</hi> where we had meat and drink, which came to two ſhillings; thence I was carried unto the Sign of the <hi>Angel,</hi> where I ſupped and lay all night: the next day being Sabbat-hday, when I
+<pb n="37" facs="tcp:119626:23"/>roſe in the morning, the ſouldiers up<g ref="char:EOLhyphen"/>on my entreating, were willing to go to Church along with me.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>If you go to Church, you muſt pluck off your Apron.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I will Gentlemen.</p>
+            </sp>
+            <p>As I was going to Church, there comes a Corporal from Major <hi>Evel<g ref="char:EOLhyphen"/>ling</hi> to have me unto the ſhip, unto three priſoners more.</p>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why friend, ſaid I, we are going to Church, pray come again af<g ref="char:EOLhyphen"/>ter dinner.</p>
+            </sp>
+            <sp>
+               <speaker>Corporal.</speaker>
+               <p>No, you muſt go along with me; for a Church belongs not to you, nor any of your Crew.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What Crew is that you ſpeak of.</p>
+            </sp>
+            <sp>
+               <speaker>Corporal.</speaker>
+               <p>Your bloody <hi>Presbyteri<g ref="char:EOLhyphen"/>ans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>They are not ſo bloody as you are, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Corporal.</speaker>
+               <p>Well, you muſt go along with me.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Well, Il'e go along with
+<pb n="38" facs="tcp:119626:24"/>you; and when I came to the place aſ<g ref="char:EOLhyphen"/>ſigned for me, they put me in a Room with two more priſoners: a porter that was taken a carrying Letters to the La<g ref="char:EOLhyphen"/>dy <hi>Howard,</hi> and a poor ſea-man, which ſea-man did cry out for Beer moſt mi<g ref="char:EOLhyphen"/>ſerably, but could have none, ſo that he was forced to drink his own water; the Porter gave him a Flint that he uſed to ſtrike fire with, to put in his mouth to quench his thirſt, he fell aſleep with it in his mouth, and had lik'd to have choaked him: ſeeing this bad uſage, I was amazed, in thinking what I ſhould do, having no money: then I called for ſome Beer, and made the Tapſter believe I had money, by ſpeaking theſe words, that it was a good turn as I had ſome money, or elſe I ſhould be but in a ſad condition: by which words, I had ſome Beer and Tobacco, I made the ſea man and the Porter drink: then the ſea-man ſpoke to me.</p>
+            </sp>
+            <sp>
+               <speaker>Sea-man.</speaker>
+               <p>The people of the houſe
+<pb n="39" facs="tcp:119626:24"/>de<g ref="char:EOLhyphen"/>ſired me to come off the Bed, and ſaid I muſt lie on the Boards.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Do not, lie ſtill where you are; It being Sabbath, I deſired them to lend me a Bible, but their anſwer was, that a Bible did not belong to me, nor none of my Crew; I asked what Crew, and they anſwered, the bloody <hi>Presbyterians:</hi> Well then, ſhall I have any dinner? then they had me down in the Kitchin to dine with the ſervants; but there was but little meat; God keep all good people from the Ship at <hi>Reading.</hi> After dinner, I was had up into the Chamber again; and at night we were all removed into another Chamber, where we lay the next day, being Munday, we were ordered to provide our ſelves ready for to go to <hi>London,</hi> ſo we came to <hi>Coates</hi>'s Coach, where there was great conteſt whether they ſhould tie my legs, or no, as I did ſit in the Coach, but at laſt, it was carried in the Negative, by the means that one of
+<pb n="40" facs="tcp:119626:25"/>the ſouldiers was one of my ac<g ref="char:EOLhyphen"/>quaintance, then we went into the Coach, being four of us; that was, one Mr. <hi>tradling</hi> a Gentleman of <hi>Wales;</hi> the Sea-man, Porter, and my ſelf, and we went by the way of <hi>Sunning,</hi> being two miles beyond <hi>Reading,</hi> and there they did take up in the Coach three Paſſengers more, a Gentlewoman and her ſon, and an Anabaptiſt, the Ana<g ref="char:EOLhyphen"/>baptiſt fell in diſcourſe with me.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſt.</speaker>
+               <p>Upon what Account are you carried priſoner.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Becauſe I would not bring innocent blood on the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſt.</speaker>
+               <p>I lament your conditi<g ref="char:EOLhyphen"/>on, becauſe of your hard uſage.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>But when I had turned my back, he <hi>Ioab</hi> like, ſpeaks to the ſoul<g ref="char:EOLhyphen"/>diers to tie my legs, and ſaid I was the ſhrewdeſt fellow as ever he did diſ<g ref="char:EOLhyphen"/>courſe with, but they did not hearken to him. So when we came to <hi>Cole-brook,</hi> we had a good dinner: and the Gentlewoman pitying of me, paid four
+<pb n="41" facs="tcp:119626:25"/>ſhillings ſix pence towards the dinner: ſo along we came towards <hi>London,</hi> but by that time we came ſome four miles, I had an occaſion to diſ-burthen my ſelf of Natures due.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray let me come forth out of the Coach.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>No, you ſhall not, it is only a pretence to get away from us, you may do it in the Coach if you will.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>with all my heart, I do not care; pray make room for me, hold up your legs, ſo I untied my point.</p>
+            </sp>
+            <sp>
+               <speaker>Coach-man.</speaker>
+               <p>Pray Gentlemen, let him out of the Coach, for there will be a ſtink to poyſon us all.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>Wee'l let him forth: Come Smith, go to the middle of the Village.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Il'e go to yonder end of the Village with all my heart: or if you will not let me, Il'e do it in the Coach.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>We, wee'l go along with you.</p>
+            </sp>
+            <pb n="42" facs="tcp:119626:26"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So I went to the ditch, and they with me with their piſtols in their hands: now Gentlemen, I think, you will make me do it for fear, if you watch me ſo narrowly.</p>
+            </sp>
+            <sp>
+               <speaker>Souldiers.</speaker>
+               <p>We do not care for that, we can do no leſs; for our lives lie at ſtake, if you eſcape.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So I went into the Coach again, and about ſeven a Clock, we came to <hi>London,</hi> being the firſt day of <hi>Auguſt,</hi> the Coach carried us down to <hi>White-hall,</hi> where many people did re<g ref="char:EOLhyphen"/>ſort to ſee what priſoners was there, ſo I came out with my Lether Apron be<g ref="char:EOLhyphen"/>fore me.</p>
+            </sp>
+            <sp>
+               <speaker>Gentlemen.</speaker>
+               <p>What have you brought here?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>A Black-ſmith.</p>
+            </sp>
+            <sp>
+               <speaker>Gentlemen.</speaker>
+               <p>Why, what hath he done?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I do not know ſiir, without it be for a preſent ſupply to fill up the Houſe, for I hear they want Mem<g ref="char:EOLhyphen"/>bers.</p>
+            </sp>
+            <pb n="43" facs="tcp:119626:26"/>
+            <sp>
+               <speaker>Gentlemen.</speaker>
+               <p>How now, what do you jear at <hi>White-hall</hi> gate? come along with us?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So we were had in, and all other people kept back, becauſe we ſhould be ſeen from the reſt: we went through ſeveral Rooms untill we came to the Council Chamber-door where Serjeant <hi>Dandy</hi> came forth to take their names as came up with me, after he had taken them, he enquired farther.</p>
+            </sp>
+            <sp>
+               <speaker>Dandy.</speaker>
+               <p>Is there not one Mr. <hi>Hol<g ref="char:EOLhyphen"/>brook</hi> here?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>There is one Mr. <hi>Holbrook</hi> a Black-ſmith here; upon that he look<g ref="char:EOLhyphen"/>ed upon me, and ſeeing my habit, he went into the Counſel and told them what I was, upon that, out came the Lord <hi>Sidenham</hi> and looked very eager<g ref="char:EOLhyphen"/>lie on me.</p>
+            </sp>
+            <sp>
+               <speaker>Sidenham.</speaker>
+               <p>Are you a Black-ſmith?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes my Lord; and I have heard very good reports of this Ho<g ref="char:EOLhyphen"/>nourable Court of their merciful deal<g ref="char:EOLhyphen"/>ings, and I hope I ſhall find it ſo now.</p>
+            </sp>
+            <pb n="44" facs="tcp:119626:27"/>
+            <sp>
+               <speaker>Sidenham.</speaker>
+               <p>You are ſome Jeſuite Ile warrant you? for you are no Black-ſmith.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why my Lord? have you ſuch thoughts of a poor Black-ſmith.</p>
+            </sp>
+            <sp>
+               <speaker>Sidenham.</speaker>
+               <p>Becauſe you give ſuch anſwers.</p>
+            </sp>
+            <sp>
+               <speaker>Smith</speaker>
+               <p>Why my Lord? <hi>If you have read the Hiſtory of</hi> K. Henry <hi>the</hi> 8<hi rend="sup">th</hi>, <hi>you ſhall find there was a Black-ſmiths ſon whoſe name was</hi> Thomas Cromwel <hi>that was Vicegerent unto the Kings per<g ref="char:EOLhyphen"/>ſon, and one of his Privy Counſellors. And if you read the Hiſtory of</hi> Scander<g ref="char:EOLhyphen"/>bag <hi>of the</hi> Turks, <hi>my Lord, you ſhall find there was a Black-ſmith that command<g ref="char:EOLhyphen"/>ed all the Armies when all the Officers fled, and gained victory. And if you have read the Lives of the Emperours, you may find one of them was a Black-ſmiths. And if you read the Hiſtory of Queen</hi> Mary, <hi>you ſhall find ſix Black-ſmiths that ſuffered for a good Conſci<g ref="char:EOLhyphen"/>ence. And if you read the Heraldry of Arms, you ſhall find that the higheſt
+<pb n="45" facs="tcp:119626:27"/>Coat of Arms in the three Nations belongs to the Black-ſmiths.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sidenham.</speaker>
+               <p>What, do you come with your Peddegree my merry blade? come Serjeant <hi>Dandy</hi> look to this fel<g ref="char:EOLhyphen"/>low, for he is ſome Jeſuite, and hath transformed himſelf into a Blackſmith habit, becauſe we ſhould not know him.</p>
+            </sp>
+            <sp>
+               <speaker>Dandy.</speaker>
+               <p>What, ſhall I ſet you down a Black-ſmith, or a Farrier?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I am a Smith, I am no Far<g ref="char:EOLhyphen"/>rier.</p>
+            </sp>
+            <sp>
+               <speaker>Dandy.</speaker>
+               <p>Ile ſet you down a Farrier.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You will not ſet down a lye ſir, for I am a Black-ſmith.</p>
+            </sp>
+            <sp>
+               <speaker>Dandy.</speaker>
+               <p>Then Ile ſet you down Black-ſmith.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then he called for a File of Muſquetiers to guard us unto the <hi>Iriſh</hi> Guard in <hi>cotland-yard,</hi> where we lay on the boards with ſome other pri<g ref="char:EOLhyphen"/>ſoners; the next day I was ſent for to the Council, where was the Lord <hi>Bradſhaw,</hi> the Lord <hi>Disborough,</hi> and Sir <hi>Henry Vane,</hi>
+               </p>
+            </sp>
+            <pb n="46" facs="tcp:119626:28"/>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>What a woful fellow haſt thou been for to endeavour to bring theſe Nations in blood, in car<g ref="char:EOLhyphen"/>rying on the intereſt of ſuch a blood<g ref="char:EOLhyphen"/>ſucker and<note n="*" place="margin">O Vil<g ref="char:EOLhyphen"/>lain. ☞</note> Traitour as <hi>Charles Stu<g ref="char:EOLhyphen"/>art</hi> is? But come my merry blade; if you will be ingenious, and reveal the enemies of the Common-wealth, you ſhall ſee what we will do for you; you ought to be encouraged, &amp; not diſcou<g ref="char:EOLhyphen"/>raged; and to be rewarded, and not puniſhed; remember thou haſt a ſoul, thou muſt ſeek to ſave it, and a Con<g ref="char:EOLhyphen"/>ſcience; do not ſtretch it, neither muſt you lye.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>(My Lord) if I ſhould not reveal the enemies of the Common-wealth, as ſhould ſeek to act againſt ſuch godly people as you are, I am worſe than accurſed.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>You ſpeak well my mer<g ref="char:EOLhyphen"/>ry blade: I wiſh we may find it ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>
+                  <hi>William Lenthal</hi> the Speaker came and told them that the Parlia<g ref="char:EOLhyphen"/>ment would deſire their company to
+<pb n="47" facs="tcp:119626:28"/>carry on the work of the day in prayer.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>My merry blade, go into the Council-Chamber, and be Royal, and you ſhall not loſe by it, for we muſt go.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>(Ha thought I) when the Fox preaches, beware the Geeſe. Then General <hi>Lambert</hi> was going out againſt Sir <hi>George Booth;</hi> all went but <hi>Diſborough,</hi> and he had more mind to examine me than go to prayr; and whil'ſt they were at prayer, he was at his prey; ſo they had me in the Room, and <hi>Disborough</hi> came in after ſmoak<g ref="char:EOLhyphen"/>ing.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Come honeſt Smith, doſt thou know me?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed my Lord, I do not know your honour.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>My name is <hi>Disbo<g ref="char:EOLhyphen"/>rough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Is it ſo, my Lord; you was one of the Major-Generals then, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Disbo.</speaker>
+               <p>But doſt hear honeſt Smith;
+<pb n="48" facs="tcp:119626:29"/>do'ſt know Captain <hi>Burges</hi> of <hi>Marle<g ref="char:EOLhyphen"/>borough?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes, very well my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Why is he made Ran<g ref="char:EOLhyphen"/>ger of the Lord <hi>Marqueſſe</hi> Forreſt.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Trulie my Lord I cannot tell; but as nigh as I can Ile tell you; he being a man of power, and the Common lying open, and many offen<g ref="char:EOLhyphen"/>ders living thereabout, he is put in for a ſtrict terrour unto the offendor.</p>
+            </sp>
+            <sp>
+               <speaker>Desborough.</speaker>
+               <p>Is that all do'ſt think?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes my Lord, that is all as I know of?</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Did'ſt never hear of any deſign as he carried on with the Lord <hi>Marqueſſe</hi> of <hi>Hertfod?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No indeed, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>But thou know'ſt ho<g ref="char:EOLhyphen"/>neſt Smith, that one good turn asketh another?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>That is true, my Lord; for if you would let me have my libertie, I ſhould pray for you?</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Thou need'ſt not doubt
+<pb n="49" facs="tcp:119626:29"/>of that, if thou wilt be royal, and re<g ref="char:EOLhyphen"/>veal the enemies of the Common-wealth: But doſt know of no deſign as is carried between them?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Well honeſt Smith, what doſt think of theſe bloody <hi>Preſ<g ref="char:EOLhyphen"/>byterians?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truelie you give ſtrange titles. It is true, ſome may be bad, but you may put more confidence in them, then in a great many you do put in truſt.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>How ſo Smith?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why my Lord, they that engage to be true for all Govern<g ref="char:EOLhyphen"/>ments, will never be true to you.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Say you ſo, my merry blade!</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes my Lord; and I can bring a Hiſtory of <hi>Conſtantine</hi> to make it appear.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Come, let's here that.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Well, you ſhall my Lord: This <hi>Conſtantine</hi> was born here in
+<pb n="50" facs="tcp:119626:30"/>
+                  <hi>England,</hi> and was the firſt Chriſtian Emperour that ever was; <hi>Hellena</hi> was his Mother; and <hi>Conſtantinus</hi> was his Father; he was buried at <hi>York,</hi> and this <hi>Conſtantine</hi> built <hi>Conſtantinople</hi> the chiefeſt Citie now in <hi>Turkey,</hi> and there he lieth buried; this <hi>Conſtantine</hi> made a Proclamation, that all thoſe perſons that were his ſervants, that would not bow and worſhip unto an unknown god, ſhould not be ſuffered to be in his Pallace, to try their pulſes; and of three hundred and odd ſervants, there was not above fourty but did forſake him; they choſe rather to go to hell with their riches and honour, than to be with God, and ſuffer afflictions. The Emperour ſeeing ſo few, wept bit<g ref="char:EOLhyphen"/>terly; well ſaid he; them that be true unto God, will be true unto their Prince; and them that are falſe unto God, will be falſe unto their Prince; ſo he turned them out that forſook God for their honour; I hope this will be your Rule, my Lord.</p>
+            </sp>
+            <pb n="51" facs="tcp:119626:30"/>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>What, doſt come as a Counſellor unto me?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No my Lord; I come as a poor Black-ſmith.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>It is an unhappy one then.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then he went to examine me about many other perſons, and I ſeeing many writers behind, I thought I had need to have as many eyes as <hi>Ar<g ref="char:EOLhyphen"/>gus</hi> had to be amongſt theſe men; well though I, Ile ſet you to work; ſo I went on upon Hiſtories as followeth.</p>
+               <p>
+                  <hi>May it pleaſe your honour, my Lord, to call to mind the Ancient Hiſtories, you ſhall find that</hi> William <hi>the Con<g ref="char:EOLhyphen"/>queror was begotten of a</hi> Skinners <hi>daugh<g ref="char:EOLhyphen"/>ter, his Fathers name was</hi> Duke Ro<g ref="char:EOLhyphen"/>bert, <hi>and his Mother was dancing under a</hi> May-pole <hi>when</hi> Duke Robert <hi>firſt fell in love with her (and was Crowned three times a year) and he reigned twen<g ref="char:EOLhyphen"/>ty years, and eleven moneths, and odd dayes, and could ſcarce have his length
+<pb n="52" facs="tcp:119626:31"/>and breadth in the earth, for all he was a Conqueror: And then</hi> William Rufus <hi>his ſon reigned in his ſtead, and he pulled his brothers eyes out, he loved honour ſo well, and he was killed in the New Forreſt in</hi> Hampſhire <hi>by the glancing of an arrow ſhot by one</hi> Tirell, <hi>a juſt judgement of God upon him for his Fathers deſtroying ſo many Churches; therefore two more of his loynes was killed there too. And after him reigned</hi> Henry <hi>the firſt, which was the firſt inventor of Yards and Ells, and his eyes and braines was buried at</hi> Roan <hi>in</hi> Normandy, <hi>and his body was wrapped up in Oxe hides, and ſalted, and buried at</hi> Reading, <hi>which hath been a mighty place for Tanners ever ſince.</hi> Disborough <hi>at laſt looked back on the Clerks that write.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>What do you write there?</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>What your diſcourſe is, my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>Strike it out, ſtrik't out, here is ſtuffe indeed; we ſhall have <hi>Speeds</hi> Chronicle by and by.</p>
+            </sp>
+            <pb n="53" facs="tcp:119626:31"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Now my Lord is going to ſeek unto God by Prayer; but I be<g ref="char:EOLhyphen"/>lieve it was done before he came: Then Serjeant <hi>Dandy</hi> had me down in<g ref="char:EOLhyphen"/>to the Cellar at <hi>White-hall,</hi> where ſe<g ref="char:EOLhyphen"/>veral men had the Cellars to ſell drink, and bread; and I ſeeing this, thought to my ſelf that Cardinal <hi>Woolſey</hi> did ne<g ref="char:EOLhyphen"/>ver build it for that uſe; ſo when I had dined, I was had up again; but as yet they were not come from their fa<g ref="char:EOLhyphen"/>ſting, ſo I was had to the <hi>Iriſh</hi> Guard in <hi>Scotland</hi> yard, and did not go again untill the next day. That night I had a kind of a blind Certificate came from <hi>Marleborough,</hi> which was procured by my Mothers weeping and making great moan, to acquaint the Council that I was a Black-ſmith, and kept a great charge from the Pariſh, ſo that if I ſhould be debarred of my libertie, the charge would lie on the Pariſh; ſo you ſee what a weak Certificate they ſent in my behalf; if it had not been for my charge, they had not car'd if I
+<pb n="54" facs="tcp:119626:32"/>had been ruined: the next day I was fetcht again, where was <hi>Bradſhaw,</hi> and the Lord <hi>Whitlock</hi> who was Preſi<g ref="char:EOLhyphen"/>dent.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my merrie blade? you came yeſterday and promiſed us to be nigenious, and did only tell us a few merrie tales; come, wee'l ſend you to a place that ſhall make you reveal our enemies; are you ſo harden'd in your wickedneſs; come, you muſt prepare your ſelf for <hi>Newgate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>
+                  <hi>Newgate,</hi> what, the Metro<g ref="char:EOLhyphen"/>politan Goale of the Nation? no meaner a place, my Lord: Now Chri<g ref="char:EOLhyphen"/>ſtian Reader, my ſorrow comes; they ſent for two Meſſengers, and gave them Order to convey me in ſafetie unto <hi>Newgate; Whitlock</hi> ſigned the Warrant; then ſeeing all would not do, I ſhowed my blind Certificate to the Lord <hi>Bradſhaw,</hi> as ſome of them whoſe heart the Divel had hardned, had ſent me, to do me no good; I wiſh that their hearts had been no worſe
+<pb n="55" facs="tcp:119626:32"/>towards me, and their Conſcience ſo good as mine was towards them: for he that is the ſearcher of all hearts knows how I was put to it, to bring them into trouble by the means of <hi>Joyce</hi> that bloody fellow <hi>Brad<g ref="char:EOLhyphen"/>ſhaw</hi> received the Certificate from me, and did read it.</p>
+            </sp>
+            <sp>
+               <speaker>Braſhaw.</speaker>
+               <p>A Black-ſmith! you may be a Black-ſmith, and carrie on the in<g ref="char:EOLhyphen"/>tereſt of <hi>Charles Stuart:</hi> a charge, what do we care for your charge? the Pariſh is bound to keep them.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My Lord, they will be but poorly kept then.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Then you muſt complain to the next Juſtice of Peace my mer<g ref="char:EOLhyphen"/>rie blade!</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My Lord, I had as good complain upon a Senator of <hi>Venice,</hi> as to do anie good upon ſome of them.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Go my merrie blade along with them.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So they had me up to <hi>New<g ref="char:EOLhyphen"/>gate,</hi> and the Keepers were called, the
+<pb n="59" facs="tcp:119626:33"/>doors being ſhut; ſo they came and read the Warrant, and put me into the Dungeon where it was verie dark.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray let me have ſome light.</p>
+            </sp>
+            <sp>
+               <speaker>Keeper.</speaker>
+               <p>You muſt buy ſome Candles if you will have anie, for you muſt have none without money.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I have no money; ſo that I was fain to lie all that night, and the next day in the dark; then I ſent to a friend in Town and borrowed five ſhil<g ref="char:EOLhyphen"/>lings; in the mean time the Keeper came into the Dungeon.</p>
+            </sp>
+            <sp>
+               <speaker>Keeper.</speaker>
+               <p>You muſt give me fourtie ſhillings, or elſe Ile put Irons on your leggs.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I have no money.</p>
+            </sp>
+            <sp>
+               <speaker>Keeper.</speaker>
+               <p>You muſt give ſix pence a night for lying on the Mat.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I have no money.</p>
+            </sp>
+            <sp>
+               <speaker>Keeper.</speaker>
+               <p>Then you muſt lie on the floor, for Ile take away the Mat.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Well, I will pay you ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x pence a night then; the which I was
+<pb n="57" facs="tcp:119626:33"/>forced to promiſe, there being almoſt nothing but dirt and piſs which was thrown down from the common ſide; and there was a houſe of Office at one end, which made ſuch a ſtink that I was readie to be poiſoned: Nay, had been, if God had not raiſed up a friend for me, in particular Mr. <hi>Samuel Prof<g ref="char:EOLhyphen"/>fit</hi> which brought me Cordial waters and Syrrups, which was the ſaving of my life under God; the next day there was an Order from the Council of State of bring me down.</p>
+            </sp>
+            <sp>
+               <speaker>Keeper.</speaker>
+               <p>If you have anie money, you may hire a Coach and go down to the Council; it may be for your deliver<g ref="char:EOLhyphen"/>ance.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What will a Coach coſt?</p>
+            </sp>
+            <sp>
+               <speaker>Keeper.</speaker>
+               <p>A ſhilling.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then I came to the door, and there was a Coach, ſo I gave a ſhil<g ref="char:EOLhyphen"/>ling for the two keepers; the Meſſen<g ref="char:EOLhyphen"/>ger that came did ride in the Coach with me; and when we came, there was only <hi>Bradſhaw</hi> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Cornet <hi>Joyce,</hi>
+                  <pb n="58" facs="tcp:119626:34"/>which was newly come out of the Countrey, becauſe he could go no farther in his enterprize, untill they made me Knight of the Poſt, to ſwear that all that he did write was truth: when I ſaw him there, my heart riſed exceedinglie at him<note n="*" place="margin">Smith <hi>to</hi> Joyce.</note>; Are you come ſir, it is well if you have brought a good Conſcience with you; ſo <hi>Joyce</hi> did deliver a ſheet of paper written on both ſides.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my merrie blade; you have told us merrie tales all along, but now here is ſomething of conſe<g ref="char:EOLhyphen"/>quence come againſt you; come hear your charge; did you not ſay there was a number of honeſt men in your Coun<g ref="char:EOLhyphen"/>tie?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>And that theſe men car<g ref="char:EOLhyphen"/>ried on the intereſt of <hi>Charles Stuart.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my winding-blade, did you ſay this or not?</p>
+            </sp>
+            <pb n="59" facs="tcp:119626:34"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My Lord, ſome I did ſay, and ſome I did not ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Anſwer Negative or Af<g ref="char:EOLhyphen"/>firmative.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why ſhould I ſay there be no honeſt men, when there be my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my merry Blade; we do not ſpeak of that; don't play with the halter.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why then my Lord, ſet down, No:</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhow:</speaker>
+               <p>If there be honeſt men, come to the next my merry blade; did you not ſay there was a number of good horſes in the County?</p>
+            </sp>
+            <sp>
+               <speaker>Smith:</speaker>
+               <p>Yes my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw:</speaker>
+               <p>And that thoſe horſes were kept for the intereſt of <hi>Charles Stuart?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith:</speaker>
+               <p>No my Lord, do you not know upon what intereſt men keep horſes for? ſome for hawking, ſome for hunting and ſome to ride to Markets and Fayres.</p>
+            </sp>
+            <pb n="60" facs="tcp:119626:35"/>
+            <sp>
+               <speaker>Bradſhaw:</speaker>
+               <p>Come hearken to your charge; you ſhall have play time enough with the halter.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Shall I ſay there be no good horſes when there is, my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Sirrah, we do not talke of good horſes, but what perſons do keepe them for <hi>Charles Stuart.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truely I do not know my Lord, ſo you may ſet downe.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come to the next; you ſaid you had received divers Letters from Mr <hi>Prynne,</hi> and had delivered them to many perſons in <hi>Wiltſhire</hi> to carry on <hi>Charles Stuart</hi> intereſt; to the Lord Marqueſs one and the Lord <hi>Sea<g ref="char:EOLhyphen"/>mor</hi> another: Mr <hi>Byfield,</hi> Mr <hi>Profit</hi> and Mr Sheriff, each of them one, Mr <hi>Webb</hi> of <hi>Ogbourne</hi> and Mr <hi>Thomas Bayly,</hi> Do<g ref="char:EOLhyphen"/>ctor <hi>Chambers</hi> and Colonel <hi>Popham,</hi> with many others, had meetings at Mr <hi>Thomas Bayly</hi>'s to carry on this deſign; how ſay you to this my merry blade!</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truly my Lord, without this <hi>Joyce</hi> had bin with the Devil for
+<pb n="61" facs="tcp:119626:35"/>Advice, I cannot ſee how a man could invent ſuch forgeries.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>How my merry blade, will you be hang'd, drawn &amp; quartered come, you ſhall have fair play; muſt all this be concealed? you ſhall ſmart for it ſoundly; is there not meetings at <hi>Bay<g ref="char:EOLhyphen"/>lie</hi>'s?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>What do their meetings tend to?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>To ſeek unto God for a bleſſing on your endeavours, if you act for God, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come, you are a wind<g ref="char:EOLhyphen"/>ing Blade; what horſe was that that the Duke of <hi>Buckingham</hi> bought at your Town?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>It was a very good-prized horſe, indeed my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Why did he go to ſuch a high price?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Becauſe they belong to Dukes and Earls, I think.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Was it not to carry on
+<pb n="62" facs="tcp:119626:36"/>the intereſt of <hi>Charls Stuart,</hi> that he hath bought that horſe?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I do not know indeed my Lord; Then he ſhaked his head.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Do you not know whe<g ref="char:EOLhyphen"/>ther M. <hi>Woodbride</hi> of <hi>Newbury,</hi> and M. <hi>Fowler</hi> of <hi>Reading,</hi> do carrie on any intereſt for <hi>Charls Stuart?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I know of none my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>What did you make at <hi>Bath?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I went to receive ſome mo<g ref="char:EOLhyphen"/>nie that was there due to me.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>You carried Letters to Mr. <hi>Pierce</hi> and Mr. <hi>Harrington,</hi> to carry on the intereſt of <hi>Charls Stuart.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>It is no ſuch thing my Lord; it is as falſe, as God is true.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come, what Alderman of <hi>London</hi> was that you had diſcourſe with.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I do not remember my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Do you not? we'le make you.</p>
+            </sp>
+            <pb n="63" facs="tcp:119626:36"/>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Yes, my Lord, we have other Witneſs as will prove that he had diſcourſe with him; if you pleaſe to read along my Lord, you ſhall finde one <hi>Thomas Goddard</hi>'s hand to it.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>There <hi>Joyce</hi> ſet down names that I never ſpoke to him of, and all to ſee what I would ſay; ſo knowing what diſcourſe <hi>Joyce</hi> and I had, I told them that he ſaid there was an intereſt car<g ref="char:EOLhyphen"/>rying on for the King, and he hoped, I would fight for my Country as well as the reſt: ſo they ſent for that honeſt Gentleman down to <hi>White-hall,</hi> and kept me there, and would not have me away untill I had confirmed what <hi>Joyce</hi> had ſet down. And when he was there, they made me come in.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come, Is this true as is writ in this paper which I have here in my hand?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>He holds a paper in his hand, and would not let me ſee it, nor read it; and I muſt ſay that that was
+<pb n="64" facs="tcp:119626:37"/>true, or elſe <hi>I</hi> muſt be hanged: I an<g ref="char:EOLhyphen"/>ſwered, My Lord, what I ſaid to <hi>Joyce,</hi> is true; but if he hath writ anie more then <hi>I</hi> ſaid to him, it is falſe: ſo the Gentleman by great providence was releaſed: then they come to the Exa<g ref="char:EOLhyphen"/>mination of me again.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Cornet <hi>Joyce,</hi> will you ſwear this is true as is written in this paper?</p>
+            </sp>
+            <sp>
+               <speaker>Joyce:</speaker>
+               <p>Yes, my Lord, <hi>I</hi> dare ſwear it is true.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Ha my Lord, he will ſwear as much againſt you, if there were but a change of Government.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my merry blade, it will not be a time for you to dallie; therefore be ingenuous.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray my Lord, let me ſpeak a few words for my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>You ſpeak! away, away.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why my Lord, pray let me have as much priviledge as <hi>Paul</hi> a<g ref="char:EOLhyphen"/>mongſt the Heathens had, that is, to ſpeak for my ſelf, my Lord.</p>
+            </sp>
+            <pb n="65" facs="tcp:119626:37"/>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Why, you do not count us Heathens; do you?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No not <hi>I</hi> my Lord; but as <hi>Paul</hi> had that priviledge amongſt the Heathens, <hi>I</hi> hope <hi>I</hi> ſhall have the ſame amongſt you thar are godly Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my winding Blade, what have you to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why my Lord, <hi>Joyce</hi> did tell me at the Hart, that he was an A<g ref="char:EOLhyphen"/>gent of <hi>Charles Stuari,</hi> and that a friend of his at <hi>London,</hi> had ſent down into the <hi>VVeſt,</hi> fifty thouſand li. and ten thouſand Caſe of Piſtols; he drunk the Kings health, and ſhewed me the Kings Commiſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>
+                  <note n="*" place="margin">Vil</note>Oh my merrie Blade, we do allow him that, to try you and ſuch as you are.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Hark, he can remember what I ſaid, but he cannot remember what he ſaid!</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>But my Lord, that which he laieth to my charge, is falſe: and
+<pb n="66" facs="tcp:119626:38"/>my Lord <hi>I</hi> have witneſs to ſwear what he ſaid.</p>
+               <p>But what he ſaith of me, there is none will ſwear but himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Well, we do allow him in it.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Do you ſo my Lord? why, you told me my Lord, when <hi>I</hi> came firſt before you, that <hi>I</hi> ſhould remem<g ref="char:EOLhyphen"/>ber <hi>I</hi> had a ſoul that <hi>I</hi> ſhould ſeek to ſave, and a Conſcience I ſhould not ſtretch, and <hi>I</hi> muſt not lye, and may he lye my Lord? hath he a conſcience, and may he ſtretch it? hath he a ſoul, and may he damn it my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>What my merrie blade, do you come with your Application? wel'e ſhew you fair play my merrie Blade: come, call the Keepers of <hi>New<g ref="char:EOLhyphen"/>gate</hi> in.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>The Keepers are come.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>You muſt look after this fellow verie narrowlie, for he can peach above fourtie men, and he will not; but we will make him, ere we have done with him.</p>
+            </sp>
+            <pb n="67" facs="tcp:119626:38"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So away they had me, and when I came to <hi>VVhite-hall</hi> Gate, they called for a Coach.</p>
+            </sp>
+            <sp>
+               <speaker>Keepers.</speaker>
+               <p>You muſt pay for the Coach.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No, <hi>I</hi> will never pay for a Coach to carrie my ſelf to Goal.</p>
+            </sp>
+            <sp>
+               <speaker>Keepers.</speaker>
+               <p>You had as good pay for it, for you ſhall before you come out of priſon.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So they had me away to <hi>New-gate,</hi> and as ſoon as <hi>I</hi> came; they put two great chains on my legs, and put me into the Dungeon again, and pulled my coat from my back for fees; then <hi>I</hi> bought ſome candles, and when they were lighted, <hi>I</hi> was in a worſe condition than before; for the Rats did ſo run about me, that <hi>I</hi> was driven to keep a ſtick in my hand to keep them from me, yet <hi>I</hi> lay there ſeven or eight days and nights, being in a ſad condition<g ref="char:punc">▪</g> for the chain was ſo little for my legs, and their beating of them made them ſwell very much, ſo
+<pb n="68" facs="tcp:119626:39"/>that they entred into my fleſh; at laſt, the Keeper ſeeing me in that conditi<g ref="char:EOLhyphen"/>on, ſaid,</p>
+            </sp>
+            <sp>
+               <speaker>Keeper.</speaker>
+               <p>If you will give me a ſhil<g ref="char:EOLhyphen"/>ling, <hi>I</hi>'e take off one of your chains.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>
+                  <hi>I</hi> will. The Keeper fearing <hi>I</hi> would not live, let me out into the Maſters Priſon; there I ſtayed a week before <hi>I</hi> was had down to the Council; then <hi>I</hi> went, where was <hi>Diſborough, Bradſhaw, Vane,</hi> Colonel <hi>Berry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my merrie Blade, what are you convinced of your bloo<g ref="char:EOLhyphen"/>die actions yet?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mith.</hi>
+               </speaker>
+               <p>Trulie my Lord, you lay that to my charge which <hi>I</hi> know nothing of.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Come my merrie blade, what Arms did the Lord <hi>Herbert</hi> carry down in his Coach?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>None my Lord, that <hi>I</hi> know of.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Did he carrie none to carry on the Intereſt of <hi>Charles Stu<g ref="char:EOLhyphen"/>art.</hi>
+               </p>
+            </sp>
+            <pb n="69" facs="tcp:119626:39"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Indeed <hi>I</hi> did ſee none my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>Well there is one at <hi>Marle<g ref="char:EOLhyphen"/>borough,</hi> as will juſtifie, that you do know of it.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What is he ſir?</p>
+            </sp>
+            <sp>
+               <speaker>Joyce.</speaker>
+               <p>It is one <hi>Thomas Goddard,</hi> and he will juſtifie more than this too.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then you may fetch him, for <hi>I</hi> know nothing.</p>
+               <p>Now this <hi>Ioyce</hi> when he was at <hi>Marleborough,</hi> did provide a Writing, and did deſire Mr. <hi>Goddard</hi> to put his hand to it, for it was a thing of no value, becauſe he could not write, nei<g ref="char:EOLhyphen"/>ther did he underſtand what was writ, put a mark, which had like to have un<g ref="char:EOLhyphen"/>done my ſelf and all the reſt: ſo <hi>I</hi> ſent down unto Mr. <hi>Goddard,</hi> and he ſent me word he knew nothing, upon vvhich <hi>I</hi> eſcaped their ſnare. But to go on vvhere vve left.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my merrie Blade, vvhat deſign is that vvhich Mr. <hi>VVil<g ref="char:EOLhyphen"/>liam Pryn</hi> is going to carry on?</p>
+            </sp>
+            <pb n="70" facs="tcp:119626:40"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>None that I know of, my my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Do you not know? wel'e make you know before we have done with you.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My Lord, let me keep a good conſcience according to your own deſire.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>No, my merrie Blade, it is not my deſire, you ſhould conceal the enemies of the Nation, ſo as to wrong your conſcience, as you do: Come my merry Blade, did you ſee any of his Books?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>And what doth he write.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>He writes, that this Parlia<g ref="char:EOLhyphen"/>ment that ſits now, is a <hi>Rump:</hi> the Clerks writ this down.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Did not there come Mr. <hi>Clark</hi> to this <hi>Prin</hi> at <hi>Marleborough?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes my Lord, there was one Mr. <hi>Clark</hi> as vvas vvith him there?</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>And vvhat did he do there?</p>
+            </sp>
+            <pb n="71" facs="tcp:119626:40"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Trulie my Lord, I do not know.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Do'ſt think he did car<g ref="char:EOLhyphen"/>rie on any intereſt with him againſt us?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>None, my Lord, that I know of</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Well, my merry blade, you ſhall have fair play, but do not play with the halter.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Fair play, my Lord, is to be tryed by the Common Law; and then my evidience may be tried as well as yours; and then my Lord, I ſhall have the priviledge of twelve men, and that is the priviledge of every <hi>Engliſh</hi> man, for everie Emperour to be tryed by twelve Emperours, and everie King by twelve Kings; and I by twelve per<g ref="char:EOLhyphen"/>ſons according to my degree; that is the Common Law, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Do you know Law ſo well? we will ſhow you Law; for the Parlia<g ref="char:EOLhyphen"/>ment have given Order that there ſhall be a high Court of Juſtice to trie all plotters.</p>
+            </sp>
+            <pb n="70" facs="tcp:119626:41"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You may do what you pleaſe my Lord, for I am but a poor Black-ſmith; but yet I have read the Common Law, and cannot find of anie Court higher than a Court of Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Come my merrie blade, you ſhall find a court higher.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Nay my Lord, if you pleaſe, I will ſend to <hi>Marleborough</hi> and have their Letters to vindicate me.</p>
+            </sp>
+            <sp>
+               <speaker>Disborough.</speaker>
+               <p>There is but three ho<g ref="char:EOLhyphen"/>neſt men in <hi>Maleborough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Who are they, my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Diſborough.</speaker>
+               <p>Mr. <hi>Hews</hi> a Miniſter, Mr. <hi>Keynes,</hi> and Mr. <hi>Bliſſet;</hi> but I fear Mr. <hi>Bliſſet</hi> is poyſoned in drinking too deep in the <hi>Presbyterian</hi> cup.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I will ſend down to them, my Lord, and gain their Letters: I ſent to them, and Mr. <hi>Hews</hi> did for me as it I had been a Child of his own, and ſo did Mr. <hi>Blaſſet,</hi> in making known unto them how I was betray'd, and Trapand, and that it would be a diſgrace unto their Government.
+<pb n="71" facs="tcp:119626:41"/>Then ſome of the Council ſent down to Mr <hi>Hews</hi> the Miniſter, to know whether I was a Black-ſmith or no; and he did acquaint them that I was a Black-ſmith; and if they did know what I was, as he did, they would not have kept me ſo long a priſoner; all which they did, notwithſtanding there were ſome bloody-minded men per<g ref="char:EOLhyphen"/>ſwaded them to the contrarie, but I am the more engaged ever to pray for them.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Can you write, or no?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes, I can my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Keeper of <hi>Newgate,</hi> look after this fellow, and keep him from Pen, Ink, and Paper; for he hath re<g ref="char:EOLhyphen"/>ceived Letters, and Papers from thoſe in the County to conceal them.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>There is no need of that, my Lord, for I know nothing of them, but honeſt men.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Mr. <hi>Carter</hi> of <hi>Marleborough</hi> hath left off his pleading, to act againſt us, and you know it well enough my merrie blade.</p>
+            </sp>
+            <pb n="74" facs="tcp:119626:42" rendition="simple:additions"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No my Lord; truely I know of no ſuch thing. Then they had me away again to <hi>Newgate</hi> by the Order of <hi>Disborough, Vane,</hi> and <hi>Bradſhaw;</hi> where three Gentlemen came and gave one ſhilling ſix pence to have me over to the Celler to drink with them, whom I did not know.</p>
+            </sp>
+            <sp>
+               <speaker>Gentlemen.</speaker>
+               <p>Pray ſit down with us; what is the reaſon that you are uſed ſo cruelly?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Becauſe I would not ſwear that all the forgeries as <hi>Joyce,</hi> and <hi>Smale,</hi> and <hi>Tynne,</hi> and others had in<g ref="char:EOLhyphen"/>vented, was truth, to bring innocent blood on the Nation, when there hath been ſo much ſpilt alreadie.</p>
+            </sp>
+            <sp>
+               <speaker>Gentlemen.</speaker>
+               <p>But you need not lie in this condition if you would but ſpeak truth; for thou knoweſt that theſe <hi>Presbyterians</hi> are bloodie, and thou can'ſt not wrong them, ſay what thou wilt; for ſurelie they are in the plot, and therefore thou needeſt not ſcruple ſwearing.</p>
+            </sp>
+            <pb n="75" facs="tcp:119626:42" rendition="simple:additions"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Trulie, for my part I know nothing but honeſtie by them, and therefore they ſhall rack me before I will wrong my Conſcience to bring innocent blood on the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Gentlemen.</speaker>
+               <p>We thought to have ſpoken for you, and got you out; but ſeeing you are hardned in your wick<g ref="char:EOLhyphen"/>edneſs, you may lie by it for us.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then I was had to priſon again, and the next week I was had down to the Council; and when I came there.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Well ſaid <hi>Bradſhaw,</hi> will you ſet your hand to this writing?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Let me hear what it is firſt, my Lord. For I remember the Hiſtory of <hi>Q. Mary,</hi> that ſhe provided had a wri<g ref="char:EOLhyphen"/>ting to put her ſiſter to death; but King <hi>Philip</hi> reading it over did ſave her life, and himſelf out of the ſnare; therefore Ile read it before I will ſet my hand unto it, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>He read it.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So he read it, and it was
+<pb n="74" facs="tcp:119626:43"/>ſuch lyes, that it made my hair ſtand an end, and my heart trembled, for the whole ſcope of it was to bring the number of fourtie men to ruine, which I would not.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come my merrie blade; ſeeing you will caſt away your ſelf, and will no reveal the enemies of the Com<g ref="char:EOLhyphen"/>mon-wealth; prepare your ſelf for death, carry him away to <hi>Newgate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So they had me away to <hi>Newgate</hi> again, and as I was going out of the Chamber, I did meet with one Mr. <hi>John Dove</hi> of <hi>alisbury,</hi> Pray ſir commiſerate my condition.</p>
+            </sp>
+            <sp>
+               <speaker>Dove.</speaker>
+               <p>What art?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>A poor Black-ſmith of <hi>Marle<g ref="char:EOLhyphen"/>borough</hi> that was betrayed by Cornet <hi>Joyce</hi> which carried the King priſoner from <hi>Holmby;</hi> and he will cauſe my life to be taken away, if I will not ſwear that all that he ſaies is true.</p>
+            </sp>
+            <sp>
+               <speaker>Dove.</speaker>
+               <p>Thou ſhalt be hanged for me<note n="*" place="margin">O Villain!</note> right or wrong, if you will not reveal theſe Traitors as <hi>Joyce</hi> hath named.</p>
+            </sp>
+            <pb n="75" facs="tcp:119626:43"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So away they had me to priſon, at which time the Seſſions was in the <hi>Old Baily,</hi> where they had me, and made me give three ſhillings ten pence for Bail-dock monie; then was I call'd to the Bar, where the Order was read which the Council of State had ſent up with me, which was as follow<g ref="char:EOLhyphen"/>eth; <hi>viz.</hi> William Houlbrook <hi>commit<g ref="char:EOLhyphen"/>ted for high Treaſon for holding correſpon<g ref="char:EOLhyphen"/>dence with the enemies of this Common-wealth, by</hi> Bulſtrode Whitlock <hi>Preſi<g ref="char:EOLhyphen"/>dent.</hi> To which there was no anſwer demanded of me, as I hoped there would, that I might have been tryed by the Common Law, that my Evi<g ref="char:EOLhyphen"/>dence might have been heard as well as his; for I much feared the High Court of Juſtice (as it was called) but having nothing ſaid to me, I was carried to <hi>Newgate</hi> again; after which, I was had again before the Council where <hi>Brad<g ref="char:EOLhyphen"/>ſhaw</hi> was.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Be honeſt, and remem<g ref="char:EOLhyphen"/>ber there is a God, and do not con<g ref="char:EOLhyphen"/>ceal
+<pb n="78" facs="tcp:119626:44"/>the enemies of the Common-wealth as you do?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>If I did know of anie as did act againſt ſuch godlie Chriſtians as you are, if I did not reveal them, I was worſe than accurſed.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>You are a hollow-heart<g ref="char:EOLhyphen"/>ed blade, you can pleaſe all Govern<g ref="char:EOLhyphen"/>ments.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then my Lord, I am the fit<g ref="char:EOLhyphen"/>ter to live in the Common-wealth, for my work lies ſo amongſt them, that I muſt do it alwaies, provided with a good Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>But do'ſt hear my mer<g ref="char:EOLhyphen"/>rie blade; why di'ſt thou weep when thou waſt with Cornet <hi>Joyce</hi> at <hi>Marl<g ref="char:EOLhyphen"/>borough?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why my Lord, it was be<g ref="char:EOLhyphen"/>cauſe I did underſtand he was a going on a deſign againſt ſuch godlie per<g ref="char:EOLhyphen"/>ſons as you are.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>No my merrie blade; you wept, becauſe that<note n="*" place="margin">O Villain.</note> Tyrant <hi>Charles Stuart</hi> did non enjoy his own again, as you termed it.</p>
+            </sp>
+            <pb n="79" facs="tcp:119626:44"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No my Lord, it was not ſo; for vvhat I ſaid to him, vvas onlie to trie him.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>O my merrie blade! if he had not medled vvith you, you vvould never have medled vvith him.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You ſay right, my Lord; for it did not belong to me, becauſe you had put him in truſt to do <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Why, my merrie blade, do you meddle ſo much with State mat<g ref="char:EOLhyphen"/>ters as you do? cannot you follovv your Trade, and let them alone.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Truelie my Lord, the peace and vvelfare of this Nation doth as much concern me to look after, as it doth your Lordſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Come, what is <hi>Rachley</hi> of <hi>Marlborough?</hi> doth not he carrie on the intereſt of <hi>Charles Stuart?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Not that I know of, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Doth not he entertain ſome of <hi>Charles Stuarts</hi> friends in his houſe?</p>
+            </sp>
+            <pb n="80" facs="tcp:119626:45"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why my Lord? if any comes to his houſe, he muſt not turn them out of doors, becauſe his houſe is a houſe of entertainment, and there is no reaſon for it, ſo long as they do not act againſt you, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Come, he is a notable youth, he was one of my Lord <hi>Cottingtons</hi> Stewards.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What if he was my Lord? ſo long as he acts nothing againſt you, it matters not.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Come my merrie blade; ſee<g ref="char:EOLhyphen"/>ing you are ſo hardened in your wick<g ref="char:EOLhyphen"/>edneſs, provide for death; we thought to have beſtowed riches, and honour upon you, but now there will be no hopes.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I beſeech you, my Lord to ſhow mercy unto me, and let me not be ſent unto <hi>Newgate</hi> again; for the allow<g ref="char:EOLhyphen"/>ance of the Priſon is but bread and wa<g ref="char:EOLhyphen"/>ter.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>It is no matter, it is too much for you.</p>
+            </sp>
+            <pb n="81" facs="tcp:119626:45"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then he raged like a Lion, and would not let anie one ask me a anie queſtion but himſelf. Then came in the Lord <hi>Disborough;</hi> my Lord, pray come to dinner, you will do your ho<g ref="char:EOLhyphen"/>nonour much wrong by keeping your ſelf faſting, and ſo long in examinati<g ref="char:EOLhyphen"/>ons</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Pray my Lord, hold your peace; if you will not look after the welfare and peace of the Nation, I will; and I have lighted on a croſs-graind fellow, that I cannot get one word out of him.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why my Lord? You gave me Order that I ſhould keep a good Conſcience, and ſo I will; for I can bring two or three witneſſes, and they will juſtifie that I ſaid no ſuch words unto <hi>Joyce</hi> as he layeth unto my charge.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>You bring witneſſes! you ſhall find that one witneſs vvill be e<g ref="char:EOLhyphen"/>nough for a Commou-vvealth againſt yours.</p>
+            </sp>
+            <pb n="82" facs="tcp:119626:46"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then he called the Keepers of <hi>Newgate</hi> in.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Carrie this fellovv avvay, and bring him again next Thurſday, then he ſhall have his revvard.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>So they had me away again to priſon, then I ſent to my Mother to deſire her if ſhe could do me any good, that ſhe would do it, for on Thurſday I did expect death; ſo ſhe went unto Mr <hi>Hews</hi> the Miniſter and Mr <hi>Bliſſet,</hi> two of the three as before mentioned, who writ letters to the Council on my behalfe. I alſo ſent to Captaine <hi>But<g ref="char:EOLhyphen"/>ler,</hi> and his brother Major <hi>Butler,</hi> they being men that I had been acquainted with at <hi>Marllborough</hi> who ſpoke for me, and told Col. <hi>Berry</hi> that was their Co<g ref="char:EOLhyphen"/>lonel, what I was, that I never acted any thing for any Government; that I kept a great charge from the Pariſh; and well read in hiſtories; and deſired, him to ſpeak for me, which he did and did me much good; then I ſent to the Lord <hi>Strickland</hi> who proved my
+<pb n="83" facs="tcp:119626:46"/>very good freind; for in ſpeaking for me, he indangered himſelf: There was alſo one Mr <hi>Booth</hi> in Iremonger Lane London, who marryed Maſter <hi>Proffets</hi> daughter of <hi>Malberough,</hi> who was very kind and loving unto mee, in viſiting and relieving of me when I was in the Dungeon with Chains on my Leggs, by going downe to my Lord <hi>Siden<g ref="char:EOLhyphen"/>ham</hi> and others on my behalf; But <hi>Sidenham</hi> reply'd I was a dangerous fel<g ref="char:EOLhyphen"/>low, and Committed for high treaſon; and therefore wiſhed him to be careful for fear of bringing himſelf into trou<g ref="char:EOLhyphen"/>ble: But he anſwered, my Lord, I doe not juſtifie him; if he hath deſerved to be hanged, let him be hanged; but pray my Lord, let him be fairly tryed: and let him be removed out or that na<g ref="char:EOLhyphen"/>ſty Dungeon wherein he lyeth, and there ſhall be good ſecurity given for his forth-coming, or to let him be re<g ref="char:EOLhyphen"/>moved into a more aiery priſon for his health; but yet I could never hear of any thing that <hi>Sidenham</hi> did for me;
+<pb n="84" facs="tcp:119626:47"/>for he (good man) was perſwaded I was a Jeſuite. When Mr. <hi>Booth</hi> gave me this Relation, I thought I ſhould have loſt my life, and the rather, becauſe my friends met with <hi>Joyce</hi> in <hi>Cheap<g ref="char:EOLhyphen"/>ſide,</hi> and deſired him to have mercy on me; he did ſay that I was a Rogue to go to make him a lyar; but before he had done with me, he would have me hanged, drawn, and quartered; which friends of mine did come and acquaint me of it. So I made a Petition and ſent it down to the Lord <hi>Fleetwood,</hi> and when he read it, he did much deteſt a<g ref="char:EOLhyphen"/>gainſt the bloody actions of <hi>Joyce,</hi> and his crew; ſo he went unto the Coun<g ref="char:EOLhyphen"/>cil and told them it would be a diſ<g ref="char:EOLhyphen"/>grace to their Government to hearken to ſuch a bloodie fellow as <hi>Joyce</hi> and the reſt of his crew were; ſo they gave him a favourable anſwer; the next night there came Major <hi>Goff</hi> of <hi>Marlborough</hi> that knew <hi>Joyces</hi> actions, and what bloodie deſigns he went upon, ſo that he went down to the Lord <hi>Fleetwood,</hi>
+                  <pb n="85" facs="tcp:119626:47"/>and told him it was a ſcandal to Reli<g ref="char:EOLhyphen"/>gion to uphold ſuch a bloodie perſon as <hi>Ioyce</hi> was; for he knew that I never acted anie thing againſt them. The next day being Thurſday, I was had down again, where was <hi>Bradſhaw,</hi> and Col. <hi>Morley,</hi> and one more.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Have you lighted upon any trappanners in <hi>Newgate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Upon which words I was at a ſtand, fearing ſome had informed againſt me; for there were many ſuch in that place.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Why do you not anſwer?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My Lord, <hi>Newgate</hi> is pre<g ref="char:EOLhyphen"/>pared for ſuch perſons; and I wonder my Lord, <hi>Joyce</hi> hath not been ſent thither all this time, at which ſome of them ſmiled, which made me rejoyce.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Come, we are willing to ſhew you mercie.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Are you ſo my Lord? then bleſſed are the <hi>merciful, for they ſhall obtain mercy,</hi> it is Chriſts own Ser<g ref="char:EOLhyphen"/>mon my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>Well, we ſee you are but
+<pb n="86" facs="tcp:119626:48"/>ill beloved in the Countrie where you live; for there's but few few friends as ſpeak for you in this your time of ad<g ref="char:EOLhyphen"/>verſitie.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I am as ill beloved in the Countrie as you are, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Upon the ſame account as I am!</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I do not know that my Lord; it is for being faithful to the Common-wealth. At which the Coun<g ref="char:EOLhyphen"/>cil fell a laughing.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>I believe that I am beloved ill enough, thou ſaiſt right in that; come, what ſecurity haſt? for thou muſt be bound in a Bond of two hundred pound.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No leſs my Lord! I was ne<g ref="char:EOLhyphen"/>ver worth ſo much in my life.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>What ſecuritie haſt thou?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>If you will have two ſub<g ref="char:EOLhyphen"/>ſtantial men, there is the Lord <hi>Strick<g ref="char:EOLhyphen"/>land,</hi> and another Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>What, no meaner perſons!
+<pb n="87" facs="tcp:119626:48"/>it ſeems you are beloved my merrie blade; two meaner perſons ſhall ſerve.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then there is a Major and a Captain, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Meaner perſons than they will ſerve.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Then here is a Cook and a Coachman my Lord. Then he ſpoke to the Clerk who proved my good frind.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>What is this Cook?</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>A verie honeſt man my Lord, he lives but at <hi>Chairing-croſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Let him be one then; what's the name of the other?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I ſhall deſire to ſpeak with him firſt, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Take the Cook now while he is here, and let him go on his Paroll till he bring the other.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Yes my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray my Lord, as you ſay you are merciful to me, I deſire it may extend a little farther.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>What is that you would have?</p>
+            </sp>
+            <pb n="88" facs="tcp:119626:49"/>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I would have my fees abated, my Lord, for I am but a poor Black-ſmith, and have nothing but what I earn by the ſweat of my brows, and I have paid much monie alreadie.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>☞ If you will not pay your fees that are due to the Keepers, you muſt lie there and rot for me; you may thank God we give you your libertie.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>If it muſt be ſo my Lord, I cannot help it. So when the Cook had ſigned the Bond, who was my verie good friend in my extremitie, whom I am ever bound to pray for,</p>
+            </sp>
+            <sp>
+               <speaker>Door keeper.</speaker>
+               <p>Come Smith, you muſt come in.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes, I am a coming.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>Come, you muſt take the Engagement.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What is that my Lord? I never took ame.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>If you mean to have your li<g ref="char:EOLhyphen"/>bertie, you muſt take one now.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pray let me hear what it is my L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, firſt, becauſe I ſhall make conſcience of what I take.</p>
+            </sp>
+            <pb n="89" facs="tcp:119626:49"/>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>You ſhall. The Clerk read the Engagement: <hi>You ſhall be true and faithful unto the Common-wealth of</hi> England, <hi>as it is now eſtabliſhed, with<g ref="char:EOLhyphen"/>out King, ſingle Perſon or Houſe of Lords; And you ſhall be ready upon all Summons that ſhall be ſent from the Parliament or Council of State, to make you perſonal appearance before them: And you ſhall not Act nor encourage any one to Act a<g ref="char:EOLhyphen"/>gainſt this Government.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>What ſay you to this, Smith?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>I conceive my Lord, that the Contents of the words, is, that I muſt be true and faithful to you as long as you are our Governours; and ſo I do not act againſt you, it matters not who do: I ſhall be very faithfull, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>I wiſh you be.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My Lord, you may know the tree by his fruits, and me by my actions. Then the keepers had me away again to Newgate, until <hi>I</hi> had payed
+<pb n="90" facs="tcp:119626:50"/>my fees: ſo I ſent to ſome freinds, and borrowed the money, ſo I paid them their due as they ſaid, which was one ſhilling for the coach to <hi>White-hall,</hi> and one ſhilling: the keeper for going with me one ſhilling up again; and three ſhil<g ref="char:EOLhyphen"/>lings 6 <abbr>d.</abbr> a week for my lodging, with many other ſuch like unreaſonable pri<g ref="char:EOLhyphen"/>zes, that it coſt me eleven pound in all, although I had great relief from my freinds in City and Country. Then I went to the Coachman for him alſo to engage for me, whoſe name was <hi>Ed<g ref="char:EOLhyphen"/>mund Poynes,</hi> who went along with me and ſigned the bond; and as we were coming from the Council we met with Cornet <hi>Smale.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smale.</speaker>
+               <p>What are you at Libertie? if you are at Liberty, and will not bring theſe perſons in, as you have peached, it will make all the faithful friends of the Parliament forſake them.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>It is you that have peached them ſir, not I; it would be happie for the Parliament, if they were freed
+<pb n="91" facs="tcp:119626:50"/>from ſuch ſervants as you are. Away I went from them. Now Chriſtian Reader, thou maiſt finde what per<g ref="char:EOLhyphen"/>ſons theſe have been by this true Re<g ref="char:EOLhyphen"/>lation from firſt to laſt: Then I went home in Eſquire <hi>Riches</hi> Coach of <hi>Sun<g ref="char:EOLhyphen"/>ning,</hi> who was my verie good friend; and when I came home, there I heard what <hi>Joyce</hi> and his Crew had done when I was in priſon; Firſt they went to the high Sheriffe, and ſaid,</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>Why do you not raiſe your troop?</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>becauſe I had no order.</p>
+            </sp>
+            <sp>
+               <speaker>Ioyce.</speaker>
+               <p>I have then. And ſhewed his or<g ref="char:EOLhyphen"/>der (but his Commiſſion was out ſeven or eight daies before he came there) ſo that the Sheriff eſcaped the ſnare: then <hi>Smale</hi> went to the Sheriff, and told him that I had peacht him of great crimes, and wiſhed him to ſend for <hi>Joyce;</hi> for he was very ſorry he ſhould be brought into trouble, <hi>Joah</hi> like, pretending love, yet meaning to mur<g ref="char:EOLhyphen"/>der him. Then <hi>Joyce</hi> plaid upon Mr.
+<pb n="92" facs="tcp:119626:51"/>
+                  <hi>Raſhly,</hi> and deſired him to drink the Kings health, for he had loſt all for be<g ref="char:EOLhyphen"/>ing for the King; but his wife knowing him, by that means he eſcaped the ſnare; then they went to Mr. <hi>Web</hi> Miniſter of <hi>Ogbourn,</hi> and ſaid, if he would do any good for the King, this was his time, for they were his Agents; but by Gods providence, that good man eſcaped the ſnare; then they went to Mr. <hi>Hunt</hi> of <hi>VVick</hi> by <hi>Marleborough,</hi> and ſaid they were Farmers, knowing him to be for the King, and ſuffering much for him; they plaid upon him, but he eſcaped the ſnare: Then <hi>Tynne</hi> came from the <hi>Angel</hi> to the <hi>Hart,</hi> &amp; pretend<g ref="char:EOLhyphen"/>ed himſelf to be for the Parliament, and I think he was for the Devil: <hi>Ioyce</hi> pretended to be for the King, ſo <hi>Tynne</hi> took <hi>Ioyce</hi> priſoner, and <hi>Ioyce</hi> cried out he was undone, for the Round-heads had taken him priſoner; and deſired the ſervants to reſcue him from them, but the ſervants by Gods providence did not: but the Chamberlain told <hi>Tynne,</hi>
+                  <pb n="93" facs="tcp:119626:51"/>if he would lie with <hi>Ioyce,</hi> he would make a bed for them together; but <hi>Tynne</hi> ſaid, <hi>Ioyce</hi> look'd like an honeſt man; therefore he would cruſt him to lie by himſelf; for he did believe he would be forth coming: But to reveal all the Actions that were done, it would be too long: ſo after I came from <hi>London,</hi> down came that bloody Villain <hi>Smale,</hi> who laboured ſo hard to have me mur<g ref="char:EOLhyphen"/>therd, becauſe I would not bring theſe Noble men into trouble; he came to the <hi>White Hart,</hi> and told Mr. <hi>Raſhly,</hi> that I had peach't him and Capt. <hi>Bur<g ref="char:EOLhyphen"/>geſs</hi> of great crimes at the Council, but the Clerk being a friend of his, he cauſ<g ref="char:EOLhyphen"/>ed him to ſtrike their names out, when he did all he could to bring them into trouble, and threatned me I ſhould be hang'd, if I did not bring them in, and yet all this did he, becauſe they ſhould not miſtruſt him that he had any hand in the bringing of them in, and <hi>Iudas</hi> like, pretending to love them, yet en<g ref="char:EOLhyphen"/>deavoured to betray them, in ſetting
+<pb n="94" facs="tcp:119626:52"/>down what they pleaſed, and bringing me to ſwear that all was true, to carrie on a fair ſhew amongſt men, as if they were innocent and bore them no ill; and when they came to <hi>London,</hi> they muſt be believed, and not; I if I had twenty witneſſes, it muſt go againſt me: And if this be the good old Cauſe, (as the <hi>Rump</hi> have cried out ſo for) to bring ſo much innocent blood on the Nation, when there hath been ſo much ſpilt already, I muſt ſay with the Letany good Lord, deliver us from ſuch men. Thus I have made known ac<g ref="char:EOLhyphen"/>cording to my weak abilitie, what mi<g ref="char:EOLhyphen"/>ſery I have gone through, and what ado I had to keep a good conſcience a<g ref="char:EOLhyphen"/>mongſt them that did long for blood. If God had not been with me, I had ne<g ref="char:EOLhyphen"/>ver been able to eſcape with life: for <hi>Ioyce</hi> would have ſworn through an inch-board (as the Proverb is) but he would have brought theſe Noble men to Ruin, and then we ſhould have had a Thankſ-giving day throughout the
+<pb n="95" facs="tcp:119626:52"/>Nation for joy, as if God was the Au<g ref="char:EOLhyphen"/>thor of their bloodie and traiterous actions, and <hi>Ioyce</hi> might damn his ſoul by lying, becauſe he was for a Com<g ref="char:EOLhyphen"/>mon-wealth: but I muſt not, which was my happineſs. Let all the world judge what they were.</p>
+               <p>Now (Chriſtian Reader (as God hath been pleaſed in much mercy to look down upon theſe three poor Na<g ref="char:EOLhyphen"/>tions, to bring us under that ancient form of Government, of King, Lords and Commons, let us ſeek unto God by prayer, for a bleſſing on our gracious Soveraign Lord King <hi>Charls</hi> the ſe<g ref="char:EOLhyphen"/>cond, to ſubmit and obey him, which is our dutie, and then we ſhall have hopes of being ſetled in peace after ſo manie years diſtraction.</p>
+               <p>And now Chriſtian Reader, I have ſhewed thee how <hi>Ioyce</hi> and the reſt en<g ref="char:EOLhyphen"/>deavoured to ruine verie many of the Nobilitie and Gentrie in this Nation, as afore-mentioned, by their falſe in<g ref="char:EOLhyphen"/>formations, to gain their Eſtates; and
+<pb n="96" facs="tcp:119626:53"/>how they appeared like Angels, when indeed no better then Devils; and I have made known to thee what perſons they were, and how theſe Villains worked upon me at firſt, and their Actions to the laſt; yet by the provi<g ref="char:EOLhyphen"/>dence of God, I was delivered from them, and kept a good conſcience, which is my comfort. Therefore from ſuch bloody men, God keep all good people; which is and ſhall be the daily prayer of him,</p>
+            </sp>
+            <closer>
+               <signed>
+                  <hi>Who is thine to ſerve thee,</hi> William Houlbrook.</signed>
+            </closer>
+            <closer>To God be all the Glory, <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
